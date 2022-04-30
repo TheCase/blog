@@ -1,1 +1,20 @@
-theme: jekyll-theme-minimal
+# Permalinks
+#
+permalink:           /:categories/:year/:month/:day/:title/
+
+# Setup
+title:               repulsor blog
+tagline:             rare notes regarding random hackings
+description:         repulsor blog
+url:                 https://blog.repulsor.net
+baseurl:             ''
+paginate:            5
+
+# Plugins, Tags, Categories and Analytics  
+plugins:          [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Bryan Casey
+  url:               https://repulsor.net
+  email:             case@repulsor.net
