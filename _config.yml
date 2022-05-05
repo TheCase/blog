@@ -18,3 +18,5 @@ author:
   name:              Bryan Casey
   url:               https://repulsor.net
   email:             case@repulsor.net
+
+theme: jekyll-theme-minimal
