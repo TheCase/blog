@@ -16,7 +16,7 @@ plugins:          [jekyll-paginate]
 # About/contact
 author:
   name:              Bryan Casey
-  url:               https://repulsor.net
+  url:               https://www.repulsor.net
   email:             case@repulsor.net
 
 theme: jekyll-theme-minimal
