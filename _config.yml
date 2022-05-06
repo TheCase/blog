@@ -7,7 +7,7 @@ title: repulsor blog
 email: blog@repulsor.net
 description: >- # this means to ignore newlines until "baseurl:"
   infrequently updated notes on my random experiments
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://thecase.github.io" 
 twitter_username: TheCaseB
 github_username:  TheCase
