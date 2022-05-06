@@ -6,7 +6,7 @@ permalink:           /:title/
 title:               repulsor blog
 tagline:             rare notes regarding random hackings
 description:         repulsor blog
-url:                 https://blog.repulsor.net
+url:                 https://thecase.github.io
 baseurl:             ''
 paginate:            5
 
