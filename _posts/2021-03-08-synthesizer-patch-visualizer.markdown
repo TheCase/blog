@@ -6,6 +6,10 @@ tags:
 - music
 - hacks
 - synthesizers
+categories:
+- music
+- hacks
+- synthesizers
 ---
 
 So, I'm new to synthesizers.  
