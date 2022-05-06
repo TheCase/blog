@@ -1,6 +1,6 @@
 # Permalinks
 #
-permalink:           /:categories/:year/:month/:day/:title/
+permalink:           /:title/
 
 # Setup
 title:               repulsor blog
