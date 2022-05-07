@@ -14,7 +14,7 @@ github_username:  TheCase
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: slate
 plugins:
   - jekyll-feed
 
