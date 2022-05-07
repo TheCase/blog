@@ -12,7 +12,7 @@ categories:
 - music
 ---
 
-https://www.retrokits.com/shop/rk007/
+[](https://www.retrokits.com/shop/rk007/)
 
 I recently stumbled across this incredible little device while trying to figure out how to get the USB MIDI transport messages from my [Roland GO\:KEYS](https://amzn.to/2PFm8Uk) keyboard to other devices on the MIDI chain. Its such a treat to have full control to send Sequence Start/Stop, Patch changes, Control changes or any Note (and Panic!) to any Channel with one little device!  It will operate as both a USB-MIDI device as well as through a 1/8" TRS jack to standard DIN-5 MIDI jack.
 
