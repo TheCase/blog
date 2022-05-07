@@ -19,7 +19,7 @@ plugins:
   - jekyll-feed
 
 permalink:
-  /:title
+  /:title/
 
 collections:
   synthesizers:
