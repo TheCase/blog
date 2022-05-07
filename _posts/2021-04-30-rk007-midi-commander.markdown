@@ -6,6 +6,10 @@ tags:
 - 3d-printing
 - synthesizers
 - music
+categories:
+- 3d-printing
+- synthesizers
+- music
 ---
 
 https://www.retrokits.com/shop/rk007/

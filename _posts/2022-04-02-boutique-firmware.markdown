@@ -5,6 +5,9 @@ date: '2022-04-02 03:20:13'
 tags:
 - synthesizers
 - tools
+collections:
+- synthesizers
+- tools
 ---
 
 I got tired of having to click through several (slow loading) pages to check for Boutique firmware updates for several units.  As such, I created a tool that checks daily and builds a single summary page (with links!) for the latest firmware updates for each model. 
