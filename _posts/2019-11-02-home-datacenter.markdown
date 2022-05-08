@@ -2,6 +2,8 @@
 layout: post
 title: My Computer Lab
 date: '2019-11-02 18:53:00'
+categories:
+- devops
 ---
 
 or... how I stopped worrying and learned to love containers...
