@@ -17,7 +17,7 @@ I wanted to be able to see the orignal settings of a patch.  Any patch.
 
 So I built this tool:
 
-  Website: [Synthesizer Patch Visualizer] (https://spv.repulsor.net)
+  Website: [Synthesizer Patch Visualizer](https://spv.repulsor.net)
 ![deck](https://res.cloudinary.com/thecase/image/upload/q_auto:good/deck.png)
 
 ### What does it do?
