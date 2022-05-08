@@ -18,8 +18,7 @@ theme: minima #slate
 plugins:
   - jekyll-feed
 
-permalink:
-  /:title/
+permalink: /:title/
 
 collections:
   synthesizers:
