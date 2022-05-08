@@ -16,7 +16,7 @@ github_username:  TheCase
 markdown: kramdown
 
 #theme: minima 
-remote-theme: "qwtel/hydejack"
+remote_theme: "qwtel/hydejack"
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
