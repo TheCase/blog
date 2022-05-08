@@ -2,14 +2,8 @@
 layout: post
 title: salvaging a XBOX 360 wireless controller module for use in OS X
 date: '2012-02-13 15:48:35'
-tags:
-- '360'
+collections:
 - hacks
-- hardware
-- mac
-- os-x
-- wireless
-- xbox
 ---
 
 

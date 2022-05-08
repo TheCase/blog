@@ -2,12 +2,8 @@
 layout: post
 title: Awesome, inexpensive 3D printer filament
 date: '2016-04-13 10:45:54'
-tags:
-- 3d-printing
-- abs
-- filament
-- inexpensive
-- pla
+collections:
+- 3D-printing
 ---
 
 

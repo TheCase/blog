@@ -2,14 +2,8 @@
 layout: post
 title: Dropbox and Skeinforge/Printrun
 date: '2012-03-13 20:30:32'
-tags:
-- alterations
-- configuration
-- dropbox
-- printrun
-- profiles
-- reprap-2
-- skeinforge
+collections:
+- 3D-Printing
 ---
 
 

@@ -2,15 +2,8 @@
 layout: post
 title: Synthesizer Patch Visualizer
 date: '2021-03-08 02:44:00'
-comments: True
-disqusid: ghost-6247bfe2bdc30e0001c3d807
-tags:
-- music
-- hacks
-- synthesizers
+disqus: True
 categories:
-- music
-- hacks
 - synthesizers
 ---
 

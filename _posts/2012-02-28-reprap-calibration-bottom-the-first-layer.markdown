@@ -2,10 +2,8 @@
 layout: post
 title: 'Reprap calibration: Bottom, the First Layer and Z-Home'
 date: '2012-02-28 20:32:18'
-tags:
-- calibration
-- reprap-2
-- tools
+collections:
+- 3D-Printing
 ---
 
 

@@ -3,10 +3,8 @@ layout: post
 title: I made a G4 iLamp from a iMac G4!
 featured: true
 date: '2017-12-27 21:19:22'
-tags:
+collections:
 - hacks
-- hardware
-- upcycle
 ---
 
 

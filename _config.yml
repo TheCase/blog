@@ -33,6 +33,7 @@ collections:
 
 disqus:
   shortname: https-blog-repulsor-net
+discus_shortname: https-blog-repulsor-net
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

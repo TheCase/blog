@@ -2,7 +2,7 @@
 layout: post
 title: '40W Chinese Laser:  First cuts!'
 date: '2015-08-29 20:12:12'
-tags:
+collections:
 - 40w-laser
 ---
 

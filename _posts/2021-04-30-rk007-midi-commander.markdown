@@ -2,14 +2,8 @@
 layout: post
 title: RK-007 MIDI Commander - Improved
 date: '2021-04-30 18:05:56'
-tags:
-- 3d-printing
-- synthesizers
-- music
 categories:
-- 3d-printing
 - synthesizers
-- music
 ---
 
 [](https://www.retrokits.com/shop/rk007/)

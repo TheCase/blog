@@ -3,10 +3,9 @@ layout: post
 title: Using Ansible to update Synology with Acme certificates from pfSense Certificate
   Manager
 date: '2021-01-31 18:49:38'
-tags:
-- configuration
-- tools
----
+collection:
+- DevOps
+tools---
 
 I love that my pfSense router can manage Acme certificates for my local domain.  I use [DigitalOcean](https://m.do.co/c/9c55dc5264ba) for hosting this blog, so I was able to configure pfSense manage my Acme certificate updates using a DNS Challenge controlled through [DigitalOcean](https://m.do.co/c/9c55dc5264ba)'s API (with a key).
 

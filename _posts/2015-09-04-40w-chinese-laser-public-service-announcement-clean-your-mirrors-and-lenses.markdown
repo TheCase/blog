@@ -2,7 +2,7 @@
 layout: post
 title: '40W Chinese Laser: Public Service Announcement: Clean your mirrors and lenses!'
 date: '2015-09-04 20:10:33'
-tags:
+collections:
 - 40w-laser
 ---
 
