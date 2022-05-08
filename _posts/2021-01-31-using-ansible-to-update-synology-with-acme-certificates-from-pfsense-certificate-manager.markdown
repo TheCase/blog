@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Using Ansible to update Synology with Acme certificates from pfSense Certificate
-  Manager
+title: 'Using Ansible to update Synology with Acme certificates from pfSense Certificate Manager'
 date: '2021-01-31 18:49:38'
-collection:
-- DevOps
-tools---
-
+collections:
+  - DevOps
+---
 I love that my pfSense router can manage Acme certificates for my local domain.  I use [DigitalOcean](https://m.do.co/c/9c55dc5264ba) for hosting this blog, so I was able to configure pfSense manage my Acme certificate updates using a DNS Challenge controlled through [DigitalOcean](https://m.do.co/c/9c55dc5264ba)'s API (with a key).
 
 I got tired of having to manually download and upload the certificate files to my Synology NAS every few months.  I'm already leveraging Ansible for other maintenance drudgery, so yesterday I decided to explore automating it.
