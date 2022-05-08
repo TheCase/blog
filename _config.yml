@@ -17,8 +17,8 @@ markdown: kramdown
 remote_theme: "qwtel/hydejack"
 
 hydejack:
-  post_addons:         [about, newsletter, related, random, comments]
-  project_addons:      [about, newsletter, other, comments]
+  post_addons:         [about, related, random, comments]
+  project_addons:      [about, other, comments]
 
   no_mark_external:    false
   no_push_state:       false
@@ -36,15 +36,8 @@ hydejack:
   no_breadcrumbs:      false
 
   use_lsi:             true
-  cookies_banner:      true
-  advertise:           true
   hide_dates:          false
   hide_last_modified:  true
-
-  dark_mode:
-    always:            true
-    dynamic:           false
-    icon:              true
 
   offline:
     enabled:           false
@@ -80,6 +73,9 @@ defaults:
       type: posts
     values:
       comments: true
+
+google_analytics: G-JKH2QH5Y7W 
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
