@@ -15,6 +15,7 @@ github_username:  TheCase
 # Build settings
 markdown: kramdown
 remote_theme: "qwtel/hydejack"
+
 hydejack:
   post_addons:         [about, newsletter, related, random, comments]
   project_addons:      [about, newsletter, other, comments]
