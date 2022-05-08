@@ -14,10 +14,14 @@ github_username:  TheCase
 
 # Build settings
 markdown: kramdown
-#theme: minima #slate
-remote-theme: qwtel/hydejack
+
+#theme: minima 
+remote-theme: "qwtel/hydejack"
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 permalink: /:title/
 
