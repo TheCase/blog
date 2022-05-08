@@ -2,6 +2,8 @@
 layout: post
 title: Building the Avonos Classic Stormtrooper Kit [Part 2]
 date: '2016-02-01 22:00:03'
+categories:
+- props
 ---
 
 
