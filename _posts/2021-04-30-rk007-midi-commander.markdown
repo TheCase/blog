@@ -6,7 +6,7 @@ image:
   path: /assets/img/rk007-blog.jpg
 categories:
 - synthesizers
-- 3d-printing
+- 3D-printing
 ---
 
 [https://www.retrokits.com/shop/rk007/](https://www.retrokits.com/shop/rk007/)
