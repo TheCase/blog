@@ -1,8 +1,7 @@
 ---
-layout: grid
+layout: list
 title:  DevOps
 slug:   devops
-menu: false
 description: >
   posts about DevOps
 ---
