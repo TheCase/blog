@@ -70,9 +70,14 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-disqus:
+disqus: https-blog-repulsor-net
   shortname: https-blog-repulsor-net
-discus_shortname: https-blog-repulsor-net
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      comments: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
