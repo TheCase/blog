@@ -25,6 +25,9 @@ collections:
     output: true
     permalink: /tag/:collection/:name
 
+disqus:
+  shortname: https-blog-repulsor-net
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
