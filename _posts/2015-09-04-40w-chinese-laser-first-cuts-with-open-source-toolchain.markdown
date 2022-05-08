@@ -2,8 +2,8 @@
 layout: post
 title: '40W Chinese Laser: First cuts with open-source toolchain'
 date: '2015-09-04 20:12:46'
-collections:
-- 40wlaser
+categories:
+- 40w-laser
 ---
 
 

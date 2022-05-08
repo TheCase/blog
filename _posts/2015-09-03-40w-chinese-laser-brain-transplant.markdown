@@ -2,8 +2,8 @@
 layout: post
 title: '40W Chinese Laser:  Brain Transplant!'
 date: '2015-09-03 21:14:10'
-collections:
-- 40wlaser
+categories:
+- 40w-laser
 ---
 
 

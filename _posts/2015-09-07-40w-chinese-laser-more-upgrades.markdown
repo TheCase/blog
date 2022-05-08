@@ -2,8 +2,8 @@
 layout: post
 title: '40W Chinese Laser: More upgrades'
 date: '2015-09-07 14:56:59'
-collections:
-- 40wlaser
+categories:
+- 40w-laser
 ---
 
 

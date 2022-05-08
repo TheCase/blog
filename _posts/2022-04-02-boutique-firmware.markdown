@@ -3,7 +3,7 @@ layout: post
 title: Roland Boutique Firmware Summary Page
 date: '2022-04-02 03:20:13'
 comments: True
-collections:
+categories:
 - synthesizers
 ---
 

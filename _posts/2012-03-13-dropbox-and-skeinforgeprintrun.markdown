@@ -2,8 +2,8 @@
 layout: post
 title: Dropbox and Skeinforge/Printrun
 date: '2012-03-13 20:30:32'
-collections:
-- 3D-Printing
+categories:
+- 3D-printing
 ---
 
 

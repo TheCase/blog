@@ -2,8 +2,8 @@
 layout: post
 title: '40W Chinese Laser: Upgrade Parts List and RAMPS conversion'
 date: '2015-08-28 11:34:07'
-collections:
-- 40wlaser
+categories:
+- 40w-laser
 ---
 
 
