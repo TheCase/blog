@@ -2,6 +2,8 @@
 layout: post
 title: RK-007 MIDI Commander - Improved
 date: '2021-04-30 18:05:56'
+image:
+  path: /assets/img/rk007-blog.jpg
 categories:
 - synthesizers
 ---
