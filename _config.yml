@@ -8,13 +8,14 @@ email: blog@repulsor.net
 description: >- # this means to ignore newlines until "baseurl:"
   infrequently updated notes on my random experiments
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thecase.github.io" 
+url: "https://blog.repulsor.net" 
 twitter_username: TheCaseB
 github_username:  TheCase
 
 # Build settings
 markdown: kramdown
-theme: minima #slate
+#theme: minima #slate
+remote-theme: qwtel/hydejack
 plugins:
   - jekyll-feed
 
