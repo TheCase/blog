@@ -57,10 +57,17 @@ plugins:
 
 permalink: /:title/
 
+menu:
+- title: About
+  url:   /about/
+
 collections:
-  synthesizers:
-    output: true
-    permalink: /tag/:collection/:name
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
 
 disqus:
   shortname: https-blog-repulsor-net
