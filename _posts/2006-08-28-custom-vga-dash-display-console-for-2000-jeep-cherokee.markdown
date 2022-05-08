@@ -2,6 +2,8 @@
 layout: post
 title: Custom VGA Dash Display Console for 2000 Jeep Cherokee
 date: '2006-08-28 13:54:11'
+categories:
+- hacks
 ---
 
 
