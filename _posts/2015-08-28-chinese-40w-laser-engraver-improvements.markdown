@@ -3,7 +3,7 @@ layout: post
 title: '40W Chinese Laser: Improvements'
 date: '2015-08-28 12:41:58'
 collections:
-- 40w-laser
+- 40wlaser
 ---
 
 

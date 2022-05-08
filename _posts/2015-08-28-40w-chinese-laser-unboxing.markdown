@@ -3,7 +3,7 @@ layout: post
 title: '40W Chinese Laser: Unboxing'
 date: '2015-08-28 10:40:23'
 collections:
-- 40w-laser
+- 40wlaser
 ---
 
 

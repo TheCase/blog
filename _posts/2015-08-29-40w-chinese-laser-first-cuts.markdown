@@ -3,7 +3,7 @@ layout: post
 title: '40W Chinese Laser:  First cuts!'
 date: '2015-08-29 20:12:12'
 collections:
-- 40w-laser
+- 40wlaser
 ---
 
 
