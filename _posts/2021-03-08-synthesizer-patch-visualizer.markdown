@@ -2,7 +2,7 @@
 layout: post
 title: Synthesizer Patch Visualizer
 date: '2021-03-08 02:44:00'
-disqus: True
+image: /assets/img/se02_full.png
 categories:
 - synthesizers
 ---
@@ -17,15 +17,19 @@ I wanted to be able to see the orignal settings of a patch.  Any patch.
 
 So I built this tool:
 
-  Website: [Synthesizer Patch Visualizer](https://spv.repulsor.net)
-![deck](https://res.cloudinary.com/thecase/image/upload/q_auto:good/deck.png)
+Website: [Synthesizer Patch Visualizer](https://spv.repulsor.net)
+
+![deck](/assets/img/deck.png)
+
+sample render from the spv tool
+{:.figcaption}
 
 ### What does it do?
 
-It takes patch program files from synthesizers and visualizes the dial and switch positions in a dynamically generated PNG image file (link included).  
+It takes patch program files from synthesizers and visualizes the dial and switch positions in a dynamically generated PNG image file and gives you a link to the generated image so that you can post on your site or share via social media.  
 
 ### What synthesizer models are supported?
-
+G
 - [Roland SE-02](https://amzn.to/2OekyI6) 
 - [Roland SH-01A](https://amzn.to/3kUVSR0)
 - [Roland JU-06A](https://amzn.to/3cmPePI)
@@ -55,4 +59,5 @@ And I just added support for the [Roland JU-06A](https://amzn.to/3cmPePI)!
 
 I'd love to add more Boutique Synths to this tool, but I only have these three.  If you'd like to work with me to build support for more, hit me up in the comments.
 
-- this post contains affiliate links to Amazon products
+\* this post contains affiliate links to Amazon products
+{:.faded}

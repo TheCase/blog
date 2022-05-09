@@ -2,6 +2,7 @@
 layout: post
 title: 'Using Ansible to update Synology with Acme certificates from pfSense Certificate Manager'
 date: '2021-01-31 18:49:38'
+image: /assets/img/ans-syn-pfs.png
 categories:
 - devops
 ---
