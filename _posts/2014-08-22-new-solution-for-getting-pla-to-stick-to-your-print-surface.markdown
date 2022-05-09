@@ -2,6 +2,8 @@
 layout: post
 title: New solution for getting PLA to stick to your print surface
 date: '2014-08-22 11:17:52'
+categories:
+- 3D-printing
 ---
 
 

@@ -2,6 +2,8 @@
 layout: post
 title: Pumpkin Time!
 date: '2012-10-29 21:02:20'
+categories:
+- kids
 ---
 
 

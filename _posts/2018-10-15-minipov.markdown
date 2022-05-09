@@ -3,7 +3,9 @@ layout: post
 title: AdaFruit MiniPOV code generator
 date: '2018-10-15 03:38:10'
 permalink: 'minipov/'
-
+comments: false
+categories:
+- hacks
 ---
 
 After I migrated blog engines, I failed to realize that I killed my old minipov code generator tool.  I got it working again (in a new location):

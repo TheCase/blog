@@ -2,6 +2,8 @@
 layout: post
 title: Smoothing out 3D printed parts
 date: '2016-04-13 11:39:04'
+categories:
+- 3D-printing
 ---
 
 

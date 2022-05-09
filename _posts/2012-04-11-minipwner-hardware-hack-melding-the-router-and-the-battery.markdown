@@ -2,6 +2,8 @@
 layout: post
 title: 'MiniPwner hardware hack: melding the router and the battery'
 date: '2012-04-11 15:50:50'
+categories:
+- hacks
 ---
 
 

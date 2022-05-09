@@ -2,6 +2,8 @@
 layout: post
 title: Solution for http://www.thingiverse.com/thing:39468
 date: '2012-12-28 12:40:47'
+categories:
+- 3D-printing
 ---
 
 

@@ -2,6 +2,8 @@
 layout: post
 title: Cross Compiling for Raspberry Pi?  Use Docker!
 date: '2014-05-06 03:09:39'
+categories:
+- devops
 ---
 
 

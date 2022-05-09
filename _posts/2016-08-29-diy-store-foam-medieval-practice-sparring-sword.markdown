@@ -2,6 +2,8 @@
 layout: post
 title: DIY Store Foam Medieval Practice Sparring Sword
 date: '2016-08-29 21:23:16'
+categories:
+- kids
 ---
 
 

@@ -2,6 +2,8 @@
 layout: post
 title: Reboxing a RadioShark USB Radio for use in a automotive entertainment PC (CarPC)
 date: '2006-08-28 12:22:12'
+categories:
+- hacks
 ---
 
 

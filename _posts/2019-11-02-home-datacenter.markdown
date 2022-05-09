@@ -16,16 +16,23 @@ I've been through many iterations of my "at home" computing stacks since the lat
 
 Here's where I'm at today with my hardware:
 
-- Router: 1U SuperMicro, 4x Intel ethernet + IPMI - pfSense
-- Compute: 3x 1U SuperMicros with 12 Core CPU, 24GB RAM
-- Storage: 8 Bay Synology RS1219+
-- Network: Cisco SG300-24 Managed Switch
-- Form factor: 19" Server rack with UPS
-- Wifi: 3x Eero mesh
+| | |
+|--|--|
+|Router| 1U SuperMicro, 4x Intel ethernet + IPMI - pfSense|
+|Compute| 3x 1U SuperMicros with 12 Core CPU, 24GB RAM|
+|Storage| 8 Bay Synology RS1219+|
+|Network| Cisco SG300-24 Managed Switch|
+|Form factor| 19" Server rack with UPS|
+|WiFi| 3x Eero mesh|
+
+Let's get started
+
+* dummy list for toc replacement
+{:toc}
 
 ## Virtualization: Proxmox
 
-I run Proxmox as my virtualization solution on each of the three compute-dedicated Supermicros.  I have toyed with the idea of PXE booting something like CoreOS to the bare metal, but I'm not ready to go there yet.  We'll get to that later.
+I chose Proxmox as my virtualization solution on each of the three compute-dedicated Supermicros.  I have toyed with the idea of PXE booting something like CoreOS to the bare metal, but I'm not ready to go there yet.  We'll get to that later.
 
 I am so glad I found Proxmox.  VMWare licensing got difficult for us cheapskates doing stupid small things at home... and I wanted to find a light management interface that didn't consume 25% of my total resource footprint.  Citrix Zen was close, but it still required Windows for a management client.  Proxmox is light and clean, has great HA features.  Basically a wonderful GUI wrapping around KVM on top of the Debian OS that we're all familiar with... System and Service upgrades via apt??  #yespls!
 
@@ -41,7 +48,7 @@ As CoreOS is already taking care of the Docker side of things, I just need to cl
 
 ## Services and Orchestration: Kubernetes
 
-To avoid repeating myself, read about my full Kubernetes implementation here: [https://github.com/TheCase/kubernetes-coreos-on-proxmox]
+To repeating myself, read about my [full Kubernetes implementation](https://github.com/TheCase/kubernetes-coreos-on-proxmox)
 
 ## Service Discovery, keys and secrets: Kubernetes 
 
@@ -64,7 +71,7 @@ Unless things have changed recently, Traefik only handles HTTP connections... so
 # Conclusion
 I know that was a quick fly-by of what I've done to make my lab serve my needs.  It certainly doesn't fall into the realm of "best practice" with all the DevOps-ness going around these days.  At the end of the day, its the perfect learning tool at a known one-time expense enabling a wide range of experimental iterations inhibited only by one's available time.  If there's one thing I would change, I'd go with the newer Intel NUCs now that they have remote management.  The SuperMicro fans to move air through the 1U cases are way too loud.
 
-Oh yeah, if you made it this far... or if TL;DR'd your way here... here's the source code for my implementation of my little piece of the cloud: [https://github.com/TheCase/kubernetes-coreos-on-proxmox]
+Oh yeah, if you made it this far... or if TLDR'd your way here... here's the source code for [my implementation of my little piece of the cloud](https://github.com/TheCase/kubernetes-coreos-on-proxmox).
 
 Hope it helps.  If not, hit me up for questions in the comments.  I'd love to help.
 

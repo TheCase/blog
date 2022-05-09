@@ -2,6 +2,8 @@
 layout: post
 title: Looking for a soldering mat?  Try a (less expensive) baking mat instead.
 date: '2017-06-10 10:50:16'
+categories:
+- hacks
 ---
 
 

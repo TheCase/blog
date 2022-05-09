@@ -2,6 +2,8 @@
 layout: post
 title: Solution for OctoPrint's update "git diff failed with returncode 129" issue
 date: '2017-06-29 21:26:01'
+categories:
+- 3D-printing
 ---
 
 
@@ -13,13 +15,19 @@ Yeah, I was able to log into my Pi and get the update by pulling the new git ver
 
 Here’s what I got every time using the upgrade feature from within OctoPrint:
 
+```
 RuntimeError: Could not update, "git diff" failed with returncode 129
+```
 
 After debugging the update script, I discovered the solution through trial and error.
 
 Here’s what you do, as the user ‘pi’:
 
-cd /tmp git init git remote add origin https://github.com/foosel/OctoPrint.git
+~~~bash
+cd /tmp
+git init
+git remote add origin https://github.com/foosel/OctoPrint.git
+~~~
 
 And then you should be able to update the app through the OctoPrint update interface! Celebrate!
 

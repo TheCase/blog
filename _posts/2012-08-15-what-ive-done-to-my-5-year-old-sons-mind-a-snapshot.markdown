@@ -2,6 +2,8 @@
 layout: post
 title: what I've done to my five year old son's mind.  a snapshot.  (thanks, George)
 date: '2012-08-15 20:42:09'
+categories:
+- kids
 ---
 
 

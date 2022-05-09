@@ -2,6 +2,8 @@
 layout: post
 title: Playstation controller -> iPad/iCade emulator
 date: '2012-10-22 18:18:25'
+categories:
+- hacks
 ---
 
 

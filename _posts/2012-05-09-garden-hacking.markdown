@@ -2,6 +2,9 @@
 layout: post
 title: Garden Hacking
 date: '2012-05-09 18:38:46'
+categories:
+- hacks
+- garden
 ---
 
 

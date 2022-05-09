@@ -17,11 +17,112 @@ I'll just cut to the chase here, I have two Github Gists with the Ansible tasks.
 
 1) Copy certificates from pfSense to your Ansible workspace:
 
-[https://gist.github.com/TheCase/d3ac39e7217f83f120e7c334c2f12e5c](https://gist.github.com/TheCase/d3ac39e7217f83f120e7c334c2f12e5c)
+
+{% raw %}
+~~~yaml
+# file: "get_pfsense_certificates.yaml"
+
+# alternatively, set as a variable in your inventory
+- name: set domain_name
+  set_fact: 
+    domain_name: mydomain.org
+  
+- name: get certs
+  fetch:
+    src: "/conf/acme/{{ item }}"
+    dest: ../.certs/ 
+    flat: yes
+  with_items:
+  - "{{ domain_name }}.fullchain" 
+  - "{{ domain_name }}.ca"
+  - "{{ domain_name }}.key"
+  - "{{ domain_name }}.crt"
+~~~
+{% endraw %}
 
 2) Copy the certificates to Synology and restart the affected services:
 
-[https://gist.github.com/TheCase/8d53c1f44fba4eb49755731542bbece8](https://gist.github.com/TheCase/8d53c1f44fba4eb49755731542bbece8)
+{% raw %}
+~~~yaml
+# file: "update_synology_certificates.yaml"
+update_synology_certificates.yaml
+- name: set directories
+  set_fact:
+    sys_dir: /usr/syno/etc/certificate
+    pkg_dir: /usr/local/etc/certificate
+    stg_dir: /tmp/certs
+
+- name: create cert staging directory
+  file:
+    path: "{{ stg_dir }}"
+    state: directory
+
+# certs from previous task
+- name: stage certs
+  copy:
+    src: "../.certs/{{ item.s }}"
+    dest: "/tmp/certs/{{ item.d }}"
+  with_items:
+    - { s: "{{ domain_name }}.crt",
+        d: "cert.pem" }
+    - { s: "{{ domain_name }}.fullchain", 
+        d: "fullchain.pem" }
+    - { s: "{{ domain_name }}.key",
+        d: "privkey.pem" }
+
+- name: read the certificate info
+  shell:
+    cmd: jq -r 'to_entries' {{ sys_dir }}/_archive/INFO
+  register: cat_info
+
+- name: set cert_info
+  set_fact:
+    cert_info: "{{ cat_info.stdout | from_json }}"
+
+- name: copy staged certs to archives
+  copy:
+    src: "{{ stg_dir }}/"
+    dest: "{{ sys_dir }}/_archive/{{ item.key }}/"
+    remote_src: true
+  with_items: "{{ cert_info | flatten }}"
+  register: certs
+
+- name: copy certs for packaged services
+  copy:
+    src: "{{ sys_dir }}/_archive/{{ item.0.key }}/"
+    dest: "{{ pkg_dir }}/{{ item.1.subscriber }}/{{ item.1.service }}/"
+    remote_src: true
+  loop: "{{ cert_info | subelements('value.services') }}"
+  when: item.1.isPkg
+
+- name: copy certs for system services
+  copy:
+    src: "{{ sys_dir }}/_archive/{{ item.0.key }}/"
+    dest: "{{ sys_dir }}/{{ item.1.subscriber }}/{{ item.1.service }}/"
+    remote_src: true
+  loop: "{{ cert_info | subelements('value.services') }}"
+  when: not item.1.isPkg
+  
+- name: restart affected services
+  shell:
+    cmd: "/usr/syno/sbin/synoservicectl --reload {{ item }}"
+  with_items:
+    # different per server - no doubt you will need to add or 
+    # remove services from this list
+    - nginx                   # DSM
+    - pkgctl-MailServer
+    - pkgctl-SynologyDrive
+    - ftpd
+    - pkgctl-ReplicationService
+  when: certs.changed
+
+- name: remove cert staging directory
+  file:
+    path: "{{ stg_dir }}"
+    state: absent
+~~~
+{% endraw %}
+
 
 Even if you are not using either pfSense or a Synology, I'm sure these Ansible Tasks could prove useful in your particular situation.  Need help?  Feel free to leave and comment!
 

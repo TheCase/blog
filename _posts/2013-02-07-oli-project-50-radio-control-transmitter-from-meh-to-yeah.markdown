@@ -2,6 +2,8 @@
 layout: post
 title: 'OLI Project: $50 radio control transmitter: from meh to yeah!'
 date: '2013-02-07 16:01:30'
+categories:
+- hacks
 ---
 
 

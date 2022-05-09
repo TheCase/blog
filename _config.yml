@@ -1,20 +1,28 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: repulsor blog
-email: blog@repulsor.net
-description: >- # this means to ignore newlines until "baseurl:"
-  infrequently updated notes on my random experiments
-baseurl: "" # the subpath of your site, e.g. /blog
+
+title: TheCase
 url: "https://blog.repulsor.net" 
-twitter_username: TheCaseB
-github_username:  TheCase
+baseurl: ""
+
+tagline: infrequent notes on random experiments
+
+description: ""
+
+lang: en-us
+
+author:
+  name:       TheCase
+  email:      blog@repulsor.net
+  picture:    /assets/img/profile.jpg
+  social:
+    github:   TheCase
+    twitter:  TheCaseB
+    linkedin: "bryan-casey-7920541"
+    rss:      /feed.xml
 
 # Build settings
 markdown: kramdown
-remote_theme: "qwtel/hydejack"
+#remote_theme: "qwtel/hydejack"
+remote_theme: "qwtel/hydejack@v9.1.6"
 
 hydejack:
   post_addons:         [about, related, random, comments]
@@ -50,13 +58,25 @@ paginate:      10
 paginate_path: '/:num/'
 
 plugins:
+  - jekyll-avatar
+  - jekyll-default-layout
   - jekyll-feed
-  - jekyll-include-cache
+  - jekyll-optional-front-matter
   - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-include-cache
+  - jekyll-last-modified-at
 
 permalink: /:title/
 
 menu:
+- title: Categories
+  url:   /categories/
 - title: About
   url:   /about/
 
@@ -82,14 +102,11 @@ defaults:
 google_analytics: G-JKH2QH5Y7W 
 
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .jekyll-cache
+  - .sass-cache
+  - vendor
+  - build.sh
+
