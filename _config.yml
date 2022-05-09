@@ -9,10 +9,12 @@ description: ""
 
 lang: en-us
 
+logo: /assets/img/profile.jpg
+
 author:
   name:       TheCase
   email:      blog@repulsor.net
-  about:      "geek dad"
+  about:      geek dad + cenosillicaphobic technology automator
   picture:    
     path:     /assets/img/profile.jpg
     srcset:
