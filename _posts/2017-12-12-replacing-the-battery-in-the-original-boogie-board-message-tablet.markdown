@@ -2,6 +2,7 @@
 layout: post
 title: Replacing the battery in the original Boogie Board message tablet
 date: '2017-12-12 16:52:37'
+image: /assets/img/boogie_stub.png
 categories:
 - hacks
 ---

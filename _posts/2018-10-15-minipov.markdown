@@ -2,14 +2,14 @@
 layout: post
 title: AdaFruit MiniPOV code generator
 date: '2018-10-15 03:38:10'
-permalink: 'minipov/'
 comments: false
+image: https://cdn-shop.adafruit.com/970x728/1-01.jpg
 categories:
 - hacks
 ---
 
 After I migrated blog engines, I failed to realize that I killed my old minipov code generator tool.  I got it working again (in a new location):
 
-https://minipov.repulsor.net
+[https://minipov.repulsor.net](https://minipov.repulsor.net)
 
 If you have questions or get stuck, please use the [Issues tracker](https://github.com/TheCase/minipov/issues) in the GitHub project.
