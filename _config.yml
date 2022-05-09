@@ -97,7 +97,6 @@ collections:
     output:            true
 
 disqus: https-blog-repulsor-net
-  #  shortname: https-blog-repulsor-net
 
 favicon: /favicon.ico
 

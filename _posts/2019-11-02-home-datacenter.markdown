@@ -2,6 +2,7 @@
 layout: post
 title: My Computer Lab
 date: '2019-11-02 18:53:00'
+image: /assets/img/data_center.jpg
 categories:
 - devops
 ---
