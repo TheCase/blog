@@ -12,7 +12,13 @@ lang: en-us
 author:
   name:       TheCase
   email:      blog@repulsor.net
-  picture:    /assets/img/profile.jpg
+  about:      "geek dad"
+  picture:    
+    path:     /assets/img/profile.jpg
+    srcset:
+      1x:     /assets/img/profile.jpg
+      2x:     /assets/img/profile.jpg
+
   social:
     github:   TheCase
     twitter:  TheCaseB
