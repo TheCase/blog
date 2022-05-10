@@ -2,6 +2,7 @@
 layout: post
 title: Solution for OctoPrint's update "git diff failed with returncode 129" issue
 date: '2017-06-29 21:26:01'
+image: https://octoprint.org/assets/img/octoprint-600x400.png
 categories:
 - 3D-printing
 ---
