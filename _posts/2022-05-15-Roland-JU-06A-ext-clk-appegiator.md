@@ -12,22 +12,23 @@ This unfortunate, as it is a feature that exists in many (all?) other Boutique s
 
 I wrote Roland about it, and here is their response.  TLDR: Don't hold your breath expecting them to fix it.
 
-```	
-Roland Product Support (Roland Corporation)
+	
+> 
+Roland Product Support (Roland Corporation)</br>
 May 13, 2022, 5:21 PM PDT
-
+>
 Hello,
-
+> 
 Thank you fr contacting Roland Support.
-
+>
 Unfortunately the JU-06A is not compatible with arpeggiating gate with the "EXT CLK IN" port. 
 This is a much requested feature - Please understand that Roland has been actively engaged in research and development in diversified scientific & business areas for many years. While we value and appreciate feedback from users, our role in customer support is limited to inquiries regarding product operation only.
- 
+>
 Thank you for your understanding, have a wonderful day! 
-
-Best Regards
+>
+Best Regards</br>
 Roland Customer Support
-```
+>
 
 ## Workaround
 
