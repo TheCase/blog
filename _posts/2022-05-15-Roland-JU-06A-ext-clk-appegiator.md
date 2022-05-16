@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roland JU-06A Ext Clock Sync Arpeggiator
+title: Roland JU-06A EXT CLK IN Doesn't Trigger Arpeggiator
 date: '2022-05-15 12:24:11'
 image: /assets/img/ju-06a.jpg
 categories:
