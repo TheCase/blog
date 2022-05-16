@@ -2,6 +2,7 @@
 layout: post
 title: Roland JU-06A Ext Clock Sync Arpeggiator
 date: '2022-05-15 12:24:11'
+image: /assets/img/ju-06a.jpg
 categories:
 - synthesizers
 ---
@@ -10,8 +11,8 @@ A major miss by Roland on the JU-06a Boutique - the external clock sync does not
 
 I wrote Roland about it, and here is their response (ie. We can complain all we want but they probably won't fix it):
 
-'''
-	
+
+```	
 Roland Product Support (Roland Corporation)
 May 13, 2022, 5:21 PM PDT
 
@@ -26,7 +27,7 @@ Thank you for your understanding, have a wonderful day!
 
 Best Regards
 Roland Customer Support
-'''
+```
 
 ##Workaround
 
@@ -36,6 +37,7 @@ There is a workaround, however. Enter your desired notes into the sequencer and 
 
 - Limited to 16 notes. 
 - no up/down pattern
-- no octave jump additions
+- no 2/3 octave range
 
-However you might be able to stumble up some unique patterns in combination with different step order types. 
+
+I know this is a major oversight by Roland as it is a feature that exists in many (all?) other Boutique stynth models.  While this workaround is not perfect, you might be able to stumble up some unique patterns in combination with different step order types. 
