@@ -29,11 +29,11 @@ Best Regards
 Roland Customer Support
 ```
 
-##Workaround
+## Workaround
 
 There is a workaround, however. Enter your desired notes into the sequencer and hold down Edit, hit the 5 button and adjust the sequence length to the number of notes in your sequence. 
 
-###Shortcomings
+### Shortcomings
 
 - Limited to 16 notes. 
 - no up/down pattern
