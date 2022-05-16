@@ -14,7 +14,7 @@ I wrote Roland about it, and here is their response.  TLDR: Don't hold your brea
 
 	
 > 
-Roland Product Support (Roland Corporation)</br>
+Roland Product Support (Roland Corporation)<br />
 May 13, 2022, 5:21 PM PDT
 >
 Hello,
@@ -26,7 +26,7 @@ This is a much requested feature - Please understand that Roland has been active
 >
 Thank you for your understanding, have a wonderful day! 
 >
-Best Regards</br>
+Best Regards<br />
 Roland Customer Support
 >
 
