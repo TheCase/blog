@@ -8,9 +8,9 @@ categories:
 ---
 
 A major miss by Roland on the JU-06a Boutique - the external clock sync does not trigger held notes when the arpeggio function is enabled. 
+This unfortunate as it is a feature that exists in     many (all?) other Boutique stynth models.
 
-I wrote Roland about it, and here is their response (ie. We can complain all we want but they probably won't fix it):
-
+I wrote Roland about it, and here is their response.  TLDR: Don't hold your breath expecting them to fix it.
 
 ```	
 Roland Product Support (Roland Corporation)
@@ -39,5 +39,4 @@ There is a workaround, however. Enter your desired notes into the sequencer and 
 - no up/down pattern
 - no 2/3 octave range
 
-
-I know this is a major oversight by Roland as it is a feature that exists in many (all?) other Boutique stynth models.  While this workaround is not perfect, you might be able to stumble up some unique patterns in combination with different step order types. 
+ While this workaround is not perfect, you might be able to stumble up some unique patterns in combination with different step order types. 
