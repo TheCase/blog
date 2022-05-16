@@ -31,7 +31,7 @@ Roland Customer Support
 
 ## Workaround
 
-There is a workaround, however. Enter your desired notes into the sequencer and hold down Edit, hit the 5 button and adjust the sequence length to the number of notes in your sequence. 
+There is a workaround, however. Enter your desired notes into the sequencer and hold down Edit, hit the 5 button and adjust the sequence length to the number of notes in your sequence. Hit start on the JU-06a and then start the Host clock sequence triggers.
 
 ### Shortcomings
 
