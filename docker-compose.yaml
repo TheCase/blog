@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+
+  builder:
+    image: jekyll/jekyll:pages
+    command: jekyll build --incremental --watch
+    environment:
+    - DEBUG=true
+    volumes:
+    - .:/srv/jekyll
+
+
+  localweb:
+    image: nginx
+    ports:
+      - 8080:80 
+    volumes:
+     - ./_site:/usr/share/nginx/html:ro nginx
