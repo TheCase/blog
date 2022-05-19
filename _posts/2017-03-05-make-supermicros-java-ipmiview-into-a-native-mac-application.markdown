@@ -2,6 +2,7 @@
 layout: post
 title: Turn Supermicro's Java IPMIView into a native Mac Application
 date: '2017-03-05 12:06:20'
+image: /assets/img/ipmiview.png
 categories:
 - devops
 ---
