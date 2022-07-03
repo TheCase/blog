@@ -29,7 +29,7 @@ sample render from the spv tool
 It takes patch program files from synthesizers and visualizes the dial and switch positions in a dynamically generated PNG image file and gives you a link to the generated image so that you can post on your site or share via social media.  
 
 ### What synthesizer models are supported?
-G
+
 - [Roland SE-02](https://amzn.to/2OekyI6) 
 - [Roland SH-01A](https://amzn.to/3kUVSR0)
 - [Roland JU-06A](https://amzn.to/3cmPePI)
