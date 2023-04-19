@@ -12,12 +12,14 @@ categories:
 Get your own [Improved RK-007](/rk007-midi-commander)!
 
 <hr>
+
   ### Assembled RK-007 
   - $75 each
   - Includes TRS MIDI Cable
   - Free USPS First Class Shipping (Continental US)
 
   {% include buyRK007.html %}
+
 <hr>
 
 This is an Arduino Pro Micro version of the device. I beefed up the 3D-printed case from 1mm->3mm wall thickness.
