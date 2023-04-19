@@ -17,7 +17,7 @@ I recently stumbled across this incredible little device:
 
 I was figure out how to get the USB MIDI transport messages from my [Roland GO\:KEYS](https://amzn.to/2PFm8Uk) keyboard to other devices on the MIDI chain. While it didn't solve my original problem, I ended up discovering a powerful little MIDI tool.  Its such a treat to have full control to send Sequence Start/Stop, Patch changes, Control changes or any Note (and Panic!) to any Channel with one little device!  It will operate as both a USB-MIDI device as well as through a 1/8" TRS jack to standard DIN-5 MIDI jack.
 
-![IMG_2574-5](https://res.cloudinary.com/thecase/image/upload/q_auto:good/IMG_2574-5.jpg)
+![IMG_2574-5](/assets/img/IMG_2574-5.jpg)
 
 Here's a [video by Retro Kits demoing the features](https://www.youtube.com/watch?v=v8QWg009FRE) 
 

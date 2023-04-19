@@ -1,0 +1,32 @@
+---
+layout: post
+title: RK-007 MIDI Commander - Buy One!
+date: '2023-04-18 19:04:00'
+image:
+  path: /assets/img/rk007-blog.jpg
+categories:
+- synthesizers
+- 3D-printing
+---
+
+![IMG_2574-5](/assets/img/IMG_2574-5.jpg)
+
+Get your own [Improved RK-007](/rk007-midi-commander)!
+
+{% include buyRK007.html %}
+
+This is an Arduino Pro Micro version of the device. I beefed up the 3D-printed case from 1mm->3mm wall thickness.
+
+TRS MIDI Cable is included with your purchase
+
+#### Items of note
+
+"TRS" stands for Tip, Ring, Sleeve. When shopping for a TRS->MIDI 5-DIN cable, you are looking for a "Type A" version.  Type A has the following pinout:
+
+- Tip -> DIN Pin 5 (Data Reference) - TXD from Arduino 
+- Ring -> DIN Pin 4 (Voltage Reference) - VCC from Arduino
+- Sleeve -> DIN Pin 2 (Shield) - GND from Arduino
+
+#### Need help?
+
+If you have any other questions about the contstruction or operation of the MIDI Commander, drop a line in the commments.  Thanks for reading!
