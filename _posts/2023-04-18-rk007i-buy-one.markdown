@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RK-007 MIDI Commander - Buy One!
+title: RK-007i MIDI Commander - Buy One!
 date: '2023-04-18 19:04:00'
 categories:
 - synthesizers
