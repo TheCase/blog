@@ -15,7 +15,8 @@ Get your own [Improved RK-007](/rk007-midi-commander)!
 
   <b>Assembled RK-007i - $75</b>
   - Includes TRS MIDI Cable
-  - Free USPS First Class Shipping (Continental US)
+  - Free USPS First Class Shipping for Continental US 
+  - International orders will be updated with discounted shipping costs
 
   {% include buyRK007.html %}
 
