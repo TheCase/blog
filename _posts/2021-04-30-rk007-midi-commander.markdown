@@ -9,8 +9,7 @@ categories:
 - 3D-printing
 ---
 
-UPDATE: I whipped up a batch of these and they are for sale on Reverb
-[https://reverb.com/item/40587059-retro-kits-rk-007-2021-white](https://reverb.com/item/40587059-retro-kits-rk-007-2021-white)
+UPDATE: I whipped up a batch of these for sale -> Click here: [Get One - Buy a RK-007i](/rk007i-buy-one)
 
 I recently stumbled across this incredible little device:
 [https://www.retrokits.com/shop/rk007/](https://www.retrokits.com/shop/rk007/)
