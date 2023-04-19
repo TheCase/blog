@@ -2,8 +2,6 @@
 layout: post
 title: RK-007 MIDI Commander - Buy One!
 date: '2023-04-18 19:04:00'
-image:
-  path: /assets/img/rk007-blog.jpg
 categories:
 - synthesizers
 - 3D-printing
@@ -13,7 +11,14 @@ categories:
 
 Get your own [Improved RK-007](/rk007-midi-commander)!
 
-{% include buyRK007.html %}
+<hr>
+  Assembled RK-007 
+  - $75 each
+  - Includes TRS MIDI Cable
+  - Free US Shipping
+
+  {% include buyRK007.html %}
+<hr>
 
 This is an Arduino Pro Micro version of the device. I beefed up the 3D-printed case from 1mm->3mm wall thickness.
 
