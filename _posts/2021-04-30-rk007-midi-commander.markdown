@@ -9,12 +9,12 @@ categories:
 - 3D-printing
 ---
 
-<b>UPDATE!</b> I whipped up a new batch of these for sale -> Click here: [Get One - Buy a RK-007i](/rk007i-buy-one)
+<b>UPDATE!</b> I whipped up a new batch of these for sale -> Check my Reverb Shop [https://reverb.com/shop/very-sound-gear](https://reverb.com/shop/very-sound-gear)
 
 I recently stumbled across this incredible little device:
 [https://www.retrokits.com/shop/rk007/](https://www.retrokits.com/shop/rk007/)
 
-I was figure out how to get the USB MIDI transport messages from my [Roland GO\:KEYS](https://amzn.to/2PFm8Uk) keyboard to other devices on the MIDI chain. While it didn't solve my original problem, I ended up discovering a powerful little MIDI tool.  Its such a treat to have full control to send Sequence Start/Stop, Patch changes, Control changes or any Note (and Panic!) to any Channel with one little device!  It will operate as both a USB-MIDI device as well as through a 1/8" TRS jack to standard DIN-5 MIDI jack.
+I was trying to figure out how to get the USB MIDI transport messages from my [Roland GO\:KEYS](https://amzn.to/2PFm8Uk) keyboard to other devices on the MIDI chain. While it didn't solve my original problem, I ended up discovering a powerful little MIDI tool.  Its such a treat to have full control to send Sequence Start/Stop, Patch changes, Control changes or any Note (and Panic!) to any Channel with one little device!  It will operate as both a USB-MIDI device as well as through a 1/8" TRS jack to standard DIN-5 MIDI jack.
 
 ![IMG_2574-5](/assets/img/IMG_2574-5.jpg)
 
