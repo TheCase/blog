@@ -106,9 +106,9 @@ defaults:
     values:
       comments: true
   - scope:
-      path: ".well-known/webfinder.json"
+      path: ".well-known/webfinger.json"
     values:
-      permalink: "/.well-known/webfinder"
+      permalink: "/.well-known/webfinger"
 
 google_analytics: G-JKH2QH5Y7W 
 
