@@ -105,6 +105,10 @@ defaults:
       type: posts
     values:
       comments: true
+  - scope:
+      path: ".well-known/webfinder.json"
+    values:
+      permalink: "/.well-known/webfinder"
 
 google_analytics: G-JKH2QH5Y7W 
 
