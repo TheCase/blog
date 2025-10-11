@@ -1,0 +1,14 @@
+---
+layout: null
+permalink: /.well-known/webfinger
+---
+{
+  "subject": "acct:user@yourdomain.com",
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://yourdomain.com/@user"
+    }
+  ]
+}
