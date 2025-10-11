@@ -6,8 +6,8 @@ permalink: /.well-known/webfinger
   "subject": "acct:oauth@repulsor.net",
   "links": [
     {
-        rel: "http://openid.net/specs/connect/1.0/issuer",
-        href: "https://repulsor.net"
+        "rel": "http://openid.net/specs/connect/1.0/issuer",
+        "href": "https://repulsor.net"
     }
   ]
 }
