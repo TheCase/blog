@@ -3,12 +3,11 @@ layout: null
 permalink: /.well-known/webfinger
 ---
 {
-  "subject": "acct:user@yourdomain.com",
+  "subject": "acct:oauth@repulsor.net",
   "links": [
     {
-      "rel": "self",
-      "type": "application/activity+json",
-      "href": "https://yourdomain.com/@user"
+        rel: "http://openid.net/specs/connect/1.0/issuer",
+        href: "https://repulsor.net"
     }
   ]
 }
