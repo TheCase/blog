@@ -108,6 +108,9 @@ defaults:
 
 google_analytics: G-JKH2QH5Y7W 
 
+include:
+  - .well-known
+
 exclude:
   - Gemfile
   - Gemfile.lock
