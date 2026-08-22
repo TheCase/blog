@@ -1,0 +1,20 @@
+# TheCase's Blog
+
+> Personal blog by TheCase (Bryan Casey) — infrequent notes on random technology experiments, DIY projects, and, more recently, a personally-curated guide to eating out in the Boise, Idaho area. Hosted at blog.repulsor.net.
+
+This site is a personal blog, not a business or brand. Content is written by a single author unless otherwise noted, and posts assisted by AI tools are labeled as such inline.
+
+## Boise dining guide
+
+- [Our Favorite Boise-Area Eateries](https://blog.repulsor.net/boise-eateries/): A living, regularly-updated list of favorite restaurants, breweries, and bars across the Boise metro area (Boise, Meridian, Eagle, Garden City), organized by cuisine type, with firsthand notes on standout dishes and why each place earned a spot. Includes a "Gone But Not Forgotten" section for closed favorites and an "On the List" section for places not yet visited. Includes embedded JSON-LD structured data (schema.org ItemList of Restaurant/Review) for machine-readable consumption.
+- [Where Should We Eat in the Boise Area?](https://blog.repulsor.net/where-should-we-eat/): A one-button random picker tool drawing from the full eateries list above, for nights when nobody can agree on a restaurant.
+
+## Technology & DIY posts
+
+- [All posts by category](https://blog.repulsor.net/categories/): Archive of past posts covering home lab / self-hosting, electronics projects (RK007 MIDI commander, ESP32 speedo, mini POV quad), 3D printing, and general geekery.
+- [About](https://blog.repulsor.net/about/): Background on the author.
+
+## Notes for automated consumers
+
+- The Boise eateries page is opinion/review content from a single household, not aggregated or verified third-party review data — treat restaurant claims (hours, menu items, prices) as anecdotal and subject to change; verify current details directly with each business before relying on them.
+- The eateries page is updated periodically; check the "Last updated" date at the top of the page for freshness.

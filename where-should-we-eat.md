@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Where Should We Eat in the Boise Area?
+description: >-
+  A one-button random picker that draws from our full list of favorite
+  Boise-area restaurants — for nights when nobody can decide where to eat.
 permalink: /where-should-we-eat/
 comments: true
 ---
