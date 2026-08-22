@@ -2,6 +2,7 @@
 layout: page
 title: Where Should We Eat in the Boise Area?
 permalink: /where-should-we-eat/
+comments: true
 ---
 
 Can't decide? Neither can we, most nights. Hit the button and let it pick from our full list of [Boise-area favorites]({{ site.baseurl }}/boise-eateries/) — if you don't like the answer, tell it "nah" and try again.
