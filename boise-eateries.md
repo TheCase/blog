@@ -499,7 +499,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: \"Cloud Nine, yeah the food is amazing... the beer? Not. So. Much.\""
+          "reviewBody": "One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: \"Cloud Nine, yeah the food is amazing... the beer? Not. So. Much.\" I'd genuinely love to sit down with the brewer over a beer sometime. I'm no pro, but I used to homebrew myself, and people were usually pretty surprised when I told them I made it and"
         }
       }
     },
@@ -2492,7 +2492,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 ## Breweries & Taprooms
 
-**Cloud 9 Brewery** — One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: "Cloud Nine, yeah the food is amazing... the beer? Not. So. Much."
+**Cloud 9 Brewery** — One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: "Cloud Nine, yeah the food is amazing... the beer? Not. So. Much." I'd genuinely love to sit down with the brewer over a beer sometime. I'm no pro, but I used to homebrew myself, and people were usually pretty surprised when I told them I made it and it wasn't something I picked up at the store. I might have a pointer or two — clean your gear? Are you reusing the yeast from the last batch every time?
 
 **Barbarian Brewing** — No food here, but you're not coming for food. The beer carries it easily — hands down the best barrel-aged sours in the valley.
 
