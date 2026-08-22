@@ -15,7 +15,7 @@ last_updated: 'August 22, 2026'
   "@type": "ItemList",
   "name": "Our Favorite Boise-Area Eateries",
   "description": "A personally-curated, regularly-updated list of favorite restaurants, bars, and breweries in the Boise, Idaho metro area, with firsthand notes and reviews.",
-  "numberOfItems": 123,
+  "numberOfItems": 115,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -77,27 +77,6 @@ last_updated: 'August 22, 2026'
       "position": 4,
       "item": {
         "@type": "Restaurant",
-        "name": "Applebee's",
-        "servesCuisine": "American",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "TheCase"
-          },
-          "reviewBody": "national chain."
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "item": {
-        "@type": "Restaurant",
         "name": "Bar Gernika",
         "servesCuisine": "Basque",
         "areaServed": {
@@ -116,7 +95,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 6,
+      "position": 5,
       "item": {
         "@type": "Restaurant",
         "name": "Barbarian Brewing",
@@ -137,7 +116,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 7,
+      "position": 6,
       "item": {
         "@type": "Restaurant",
         "name": "Bardenay",
@@ -158,7 +137,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 8,
+      "position": 7,
       "item": {
         "@type": "Restaurant",
         "name": "Big Jud's",
@@ -179,7 +158,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 9,
+      "position": 8,
       "item": {
         "@type": "Restaurant",
         "name": "Biscuit & Hogs",
@@ -200,7 +179,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 10,
+      "position": 9,
       "item": {
         "@type": "Restaurant",
         "name": "Bittercreek Alehouse",
@@ -221,7 +200,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 11,
+      "position": 10,
       "item": {
         "@type": "Restaurant",
         "name": "Black Bear Diner",
@@ -234,7 +213,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 12,
+      "position": 11,
       "item": {
         "@type": "Restaurant",
         "name": "Black Moon",
@@ -255,7 +234,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 13,
+      "position": 12,
       "item": {
         "@type": "Restaurant",
         "name": "Blaze Pizza",
@@ -268,7 +247,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 14,
+      "position": 13,
       "item": {
         "@type": "Restaurant",
         "name": "Boise Fry Company",
@@ -284,6 +263,19 @@ last_updated: 'August 22, 2026'
             "name": "TheCase"
           },
           "reviewBody": "A must for anyone who takes fries seriously. Their line is \"fries with burgers on the side,\" and honestly the burgers hold up too — a bit smaller than you'd expect, but no shortage of flavor. Six rotating potato varieties year-round across several cut styles; we usually keep it simple with regular-cut russets. It's a bit of a shame they've pared back the salts and sauces over the years, but buildi"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Bombay Grill",
+        "servesCuisine": "Indian",
+        "areaServed": {
+          "@type": "City",
+          "name": "Boise, Idaho"
         }
       }
     },
@@ -389,19 +381,6 @@ last_updated: 'August 22, 2026'
       "position": 20,
       "item": {
         "@type": "Restaurant",
-        "name": "Carl's Jr",
-        "servesCuisine": "American",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 21,
-      "item": {
-        "@type": "Restaurant",
         "name": "Chandlers",
         "servesCuisine": "Steakhouse",
         "areaServed": {
@@ -420,28 +399,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 22,
-      "item": {
-        "@type": "Restaurant",
-        "name": "Chipotle",
-        "servesCuisine": "Mexican",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "TheCase"
-          },
-          "reviewBody": "national fast-casual chain."
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 23,
+      "position": 21,
       "item": {
         "@type": "Restaurant",
         "name": "Clairvoyant Brewing",
@@ -462,7 +420,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 24,
+      "position": 22,
       "item": {
         "@type": "Restaurant",
         "name": "Cloud 9 Brewery",
@@ -483,7 +441,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 25,
+      "position": 23,
       "item": {
         "@type": "Restaurant",
         "name": "Coa de Jima",
@@ -504,7 +462,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 26,
+      "position": 24,
       "item": {
         "@type": "Restaurant",
         "name": "Cobby's Sandwich Shop",
@@ -525,7 +483,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 27,
+      "position": 25,
       "item": {
         "@type": "Restaurant",
         "name": "Corona Village",
@@ -546,20 +504,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 28,
-      "item": {
-        "@type": "Restaurant",
-        "name": "Cracker Barrel",
-        "servesCuisine": "American",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 29,
+      "position": 26,
       "item": {
         "@type": "Restaurant",
         "name": "Crave Kitchen & Bar",
@@ -580,7 +525,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 30,
+      "position": 27,
       "item": {
         "@type": "Restaurant",
         "name": "Double Tap Pub",
@@ -601,7 +546,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 31,
+      "position": 28,
       "item": {
         "@type": "Restaurant",
         "name": "Eight Thirty Common",
@@ -622,7 +567,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 32,
+      "position": 29,
       "item": {
         "@type": "Restaurant",
         "name": "Epi's",
@@ -643,7 +588,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 30,
       "item": {
         "@type": "Restaurant",
         "name": "Flying Pie",
@@ -664,7 +609,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 31,
       "item": {
         "@type": "Restaurant",
         "name": "Fork",
@@ -685,7 +630,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 35,
+      "position": 32,
       "item": {
         "@type": "Restaurant",
         "name": "Fresh Off The Hook",
@@ -706,7 +651,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 36,
+      "position": 33,
       "item": {
         "@type": "Restaurant",
         "name": "Fujiyama",
@@ -727,7 +672,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 37,
+      "position": 34,
       "item": {
         "@type": "Restaurant",
         "name": "Gil's K-9",
@@ -748,7 +693,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 35,
       "item": {
         "@type": "Restaurant",
         "name": "Ginza Sushi",
@@ -769,7 +714,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 36,
       "item": {
         "@type": "Restaurant",
         "name": "Good Times Bagels",
@@ -790,7 +735,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 37,
       "item": {
         "@type": "Restaurant",
         "name": "Goodwood",
@@ -811,7 +756,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 41,
+      "position": 38,
       "item": {
         "@type": "Restaurant",
         "name": "Goody's Soda Fountain",
@@ -832,7 +777,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 42,
+      "position": 39,
       "item": {
         "@type": "Restaurant",
         "name": "Gramercy Park Pub",
@@ -845,7 +790,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 43,
+      "position": 40,
       "item": {
         "@type": "Restaurant",
         "name": "Grand China Buffet",
@@ -866,7 +811,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 44,
+      "position": 41,
       "item": {
         "@type": "Restaurant",
         "name": "Grant's Neighborhood Grill",
@@ -887,7 +832,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 45,
+      "position": 42,
       "item": {
         "@type": "Restaurant",
         "name": "Graveyard B&G",
@@ -908,7 +853,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 46,
+      "position": 43,
       "item": {
         "@type": "Restaurant",
         "name": "Green Acres Food Truck Park",
@@ -929,7 +874,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 47,
+      "position": 44,
       "item": {
         "@type": "Restaurant",
         "name": "Grimaldi's",
@@ -942,7 +887,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 48,
+      "position": 45,
       "item": {
         "@type": "Restaurant",
         "name": "Gyro Shack",
@@ -963,7 +908,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 49,
+      "position": 46,
       "item": {
         "@type": "Restaurant",
         "name": "Happy Teriyaki",
@@ -984,7 +929,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 50,
+      "position": 47,
       "item": {
         "@type": "Restaurant",
         "name": "Hemlock",
@@ -1005,7 +950,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 51,
+      "position": 48,
       "item": {
         "@type": "Restaurant",
         "name": "Holy Cow",
@@ -1018,7 +963,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 52,
+      "position": 49,
       "item": {
         "@type": "Restaurant",
         "name": "Hops & Bottles",
@@ -1039,20 +984,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 53,
-      "item": {
-        "@type": "Restaurant",
-        "name": "IHOP",
-        "servesCuisine": "American",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 54,
+      "position": 50,
       "item": {
         "@type": "Restaurant",
         "name": "Island Sushi",
@@ -1073,7 +1005,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 55,
+      "position": 51,
       "item": {
         "@type": "Restaurant",
         "name": "Izumi Steakhouse",
@@ -1094,7 +1026,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 56,
+      "position": 52,
       "item": {
         "@type": "Restaurant",
         "name": "Kahootz",
@@ -1107,20 +1039,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 57,
-      "item": {
-        "@type": "Restaurant",
-        "name": "KFC",
-        "servesCuisine": "American",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 58,
+      "position": 53,
       "item": {
         "@type": "Restaurant",
         "name": "Kona Grill",
@@ -1141,7 +1060,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 59,
+      "position": 54,
       "item": {
         "@type": "Restaurant",
         "name": "Kyoto Palace",
@@ -1162,7 +1081,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 60,
+      "position": 55,
       "item": {
         "@type": "Restaurant",
         "name": "La Cabinita",
@@ -1183,7 +1102,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 61,
+      "position": 56,
       "item": {
         "@type": "Restaurant",
         "name": "Land Ocean",
@@ -1204,7 +1123,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 62,
+      "position": 57,
       "item": {
         "@type": "Restaurant",
         "name": "Le Peep",
@@ -1217,7 +1136,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 63,
+      "position": 58,
       "item": {
         "@type": "Restaurant",
         "name": "Little Pearl Oyster Bar",
@@ -1238,7 +1157,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 64,
+      "position": 59,
       "item": {
         "@type": "Restaurant",
         "name": "Lost Grove Brewing",
@@ -1259,7 +1178,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 65,
+      "position": 60,
       "item": {
         "@type": "Restaurant",
         "name": "Maddie's Wine and Whiskey",
@@ -1280,7 +1199,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 66,
+      "position": 61,
       "item": {
         "@type": "Restaurant",
         "name": "Mai Tai",
@@ -1301,7 +1220,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 67,
+      "position": 62,
       "item": {
         "@type": "Restaurant",
         "name": "Main Street Burger",
@@ -1322,7 +1241,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 68,
+      "position": 63,
       "item": {
         "@type": "Restaurant",
         "name": "Mazzah Mediterranean Grill",
@@ -1343,20 +1262,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 69,
-      "item": {
-        "@type": "Restaurant",
-        "name": "McDonalds",
-        "servesCuisine": "American",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 70,
+      "position": 64,
       "item": {
         "@type": "Restaurant",
         "name": "MOD Pizza",
@@ -1377,7 +1283,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 71,
+      "position": 65,
       "item": {
         "@type": "Restaurant",
         "name": "Moe Joe's Breakfast Eatery",
@@ -1398,7 +1304,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 72,
+      "position": 66,
       "item": {
         "@type": "Restaurant",
         "name": "Mongolian BBQ",
@@ -1419,7 +1325,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 73,
+      "position": 67,
       "item": {
         "@type": "Restaurant",
         "name": "Nanzaya",
@@ -1440,7 +1346,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 74,
+      "position": 68,
       "item": {
         "@type": "Restaurant",
         "name": "Old Chicago",
@@ -1461,7 +1367,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 75,
+      "position": 69,
       "item": {
         "@type": "Restaurant",
         "name": "Owyhee Tavern",
@@ -1482,28 +1388,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 76,
-      "item": {
-        "@type": "Restaurant",
-        "name": "Panda Express",
-        "servesCuisine": "Chinese",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "TheCase"
-          },
-          "reviewBody": "national fast-food chain."
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 77,
+      "position": 70,
       "item": {
         "@type": "Restaurant",
         "name": "Percy",
@@ -1524,7 +1409,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 78,
+      "position": 71,
       "item": {
         "@type": "Restaurant",
         "name": "Pho House",
@@ -1545,7 +1430,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 79,
+      "position": 72,
       "item": {
         "@type": "Restaurant",
         "name": "Pho Nouveau",
@@ -1566,7 +1451,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 80,
+      "position": 73,
       "item": {
         "@type": "Restaurant",
         "name": "Pie Hole",
@@ -1587,7 +1472,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 81,
+      "position": 74,
       "item": {
         "@type": "Restaurant",
         "name": "Pita Pit",
@@ -1608,7 +1493,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 82,
+      "position": 75,
       "item": {
         "@type": "Restaurant",
         "name": "RAM Brewing",
@@ -1621,7 +1506,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 83,
+      "position": 76,
       "item": {
         "@type": "Restaurant",
         "name": "Red Fort",
@@ -1642,7 +1527,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 84,
+      "position": 77,
       "item": {
         "@type": "Restaurant",
         "name": "Red Pavilion",
@@ -1663,7 +1548,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 85,
+      "position": 78,
       "item": {
         "@type": "Restaurant",
         "name": "Reel Foods Fish Market",
@@ -1684,7 +1569,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 86,
+      "position": 79,
       "item": {
         "@type": "Restaurant",
         "name": "Rotary Sushi",
@@ -1705,7 +1590,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 87,
+      "position": 80,
       "item": {
         "@type": "Restaurant",
         "name": "Rudy's",
@@ -1718,7 +1603,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 88,
+      "position": 81,
       "item": {
         "@type": "Restaurant",
         "name": "Sakana",
@@ -1739,7 +1624,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 89,
+      "position": 82,
       "item": {
         "@type": "Restaurant",
         "name": "Schnitzelgarten",
@@ -1760,7 +1645,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 90,
+      "position": 83,
       "item": {
         "@type": "Restaurant",
         "name": "Seoul Street Cafe",
@@ -1781,7 +1666,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 91,
+      "position": 84,
       "item": {
         "@type": "Restaurant",
         "name": "Sidequest",
@@ -1802,7 +1687,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 92,
+      "position": 85,
       "item": {
         "@type": "Restaurant",
         "name": "Smashburger",
@@ -1815,7 +1700,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 93,
+      "position": 86,
       "item": {
         "@type": "Restaurant",
         "name": "Smoky Mountain Pizzeria Grill",
@@ -1836,7 +1721,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 94,
+      "position": 87,
       "item": {
         "@type": "Restaurant",
         "name": "Sockeye Brewing",
@@ -1857,20 +1742,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 95,
-      "item": {
-        "@type": "Restaurant",
-        "name": "Sonic",
-        "servesCuisine": "American",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 96,
+      "position": 88,
       "item": {
         "@type": "Restaurant",
         "name": "Stardust Restaurant & Lounge",
@@ -1891,7 +1763,28 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 97,
+      "position": 89,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Taj Mahal",
+        "servesCuisine": "Indian",
+        "areaServed": {
+          "@type": "City",
+          "name": "Boise, Idaho"
+        },
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TheCase"
+          },
+          "reviewBody": "we've been to both, but neither stood up to the standard, flavor, quality, and value of Red Fort."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 90,
       "item": {
         "@type": "Restaurant",
         "name": "Taphouse Pub & Eatery",
@@ -1912,7 +1805,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 98,
+      "position": 91,
       "item": {
         "@type": "Restaurant",
         "name": "Tarbush Cafe",
@@ -1933,7 +1826,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 99,
+      "position": 92,
       "item": {
         "@type": "Restaurant",
         "name": "Texas Roadhouse",
@@ -1954,7 +1847,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 100,
+      "position": 93,
       "item": {
         "@type": "Restaurant",
         "name": "The Basque Center",
@@ -1975,7 +1868,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 101,
+      "position": 94,
       "item": {
         "@type": "Restaurant",
         "name": "The Boise Post",
@@ -1996,7 +1889,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 102,
+      "position": 95,
       "item": {
         "@type": "Restaurant",
         "name": "The Brickyard",
@@ -2017,20 +1910,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 103,
-      "item": {
-        "@type": "Restaurant",
-        "name": "The Cheesecake Factory",
-        "servesCuisine": "American",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 104,
+      "position": 96,
       "item": {
         "@type": "Restaurant",
         "name": "The Funky Taco",
@@ -2051,7 +1931,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 105,
+      "position": 97,
       "item": {
         "@type": "Restaurant",
         "name": "The Habit",
@@ -2064,7 +1944,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 106,
+      "position": 98,
       "item": {
         "@type": "Restaurant",
         "name": "The James Kitchen & Bar",
@@ -2085,7 +1965,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 107,
+      "position": 99,
       "item": {
         "@type": "Restaurant",
         "name": "The Reef",
@@ -2106,7 +1986,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 108,
+      "position": 100,
       "item": {
         "@type": "Restaurant",
         "name": "The Warehouse",
@@ -2127,7 +2007,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 109,
+      "position": 101,
       "item": {
         "@type": "Restaurant",
         "name": "The Wylder",
@@ -2148,7 +2028,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 110,
+      "position": 102,
       "item": {
         "@type": "Restaurant",
         "name": "Tin Roof Tacos",
@@ -2169,7 +2049,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 111,
+      "position": 103,
       "item": {
         "@type": "Restaurant",
         "name": "Tony's Pizzeria Teatro",
@@ -2190,7 +2070,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 112,
+      "position": 104,
       "item": {
         "@type": "Restaurant",
         "name": "Toro's Tacos",
@@ -2211,7 +2091,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 113,
+      "position": 105,
       "item": {
         "@type": "Restaurant",
         "name": "Trillium",
@@ -2232,7 +2112,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 114,
+      "position": 106,
       "item": {
         "@type": "Restaurant",
         "name": "Tupelo Honey",
@@ -2245,7 +2125,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 115,
+      "position": 107,
       "item": {
         "@type": "Restaurant",
         "name": "UMAI",
@@ -2266,7 +2146,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 116,
+      "position": 108,
       "item": {
         "@type": "Restaurant",
         "name": "Umami Sushi Burrito",
@@ -2287,7 +2167,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 117,
+      "position": 109,
       "item": {
         "@type": "Restaurant",
         "name": "Umi Shabu Shabu",
@@ -2308,7 +2188,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 118,
+      "position": 110,
       "item": {
         "@type": "Restaurant",
         "name": "Voodoo Brewing",
@@ -2321,7 +2201,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 119,
+      "position": 111,
       "item": {
         "@type": "Restaurant",
         "name": "Westside Drive In",
@@ -2342,7 +2222,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 120,
+      "position": 112,
       "item": {
         "@type": "Restaurant",
         "name": "Wyld Child",
@@ -2363,7 +2243,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 121,
+      "position": 113,
       "item": {
         "@type": "Restaurant",
         "name": "Yard House",
@@ -2384,7 +2264,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 122,
+      "position": 114,
       "item": {
         "@type": "Restaurant",
         "name": "Yen Ching",
@@ -2405,7 +2285,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 123,
+      "position": 115,
       "item": {
         "@type": "Restaurant",
         "name": "Yoi Tomo",
@@ -2528,7 +2408,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Big Jud's** — Home of the one-pound cheeseburger challenge; 1,000+ finishers have their photo on the wall. Yeah, it's big, but it doesn't lack for juiciness and quality.
 
-*Also on our list:* **Carl's Jr.**, **KFC**, **McDonald's**, **Smashburger**, **Sonic Drive-In**, **The Habit Burger Grill** — national chains. **Main Street Burger** — Meridian burger counter serving 1/3-lb organic beef patties and a jalapeño-jack "5 Alarm Burger."
+*Also on our list:* **Smashburger** and **The Habit Burger Grill** — national chains. **Main Street Burger** — Meridian burger counter serving 1/3-lb organic beef patties and a jalapeño-jack "5 Alarm Burger."
 
 ## American, Comfort & Brunch
 
@@ -2544,7 +2424,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Yard House** — A prolific happy hour. I get an $8 plate of nachos for myself — the chicken nachos are legend. Amazing drink and food specials; don't miss it.
 
-*Also on our list:* **Black Bear Diner**, **Cracker Barrel**, **Le Peep**, **The Cheesecake Factory**, **Tupelo Honey Southern Kitchen & Bar**, **Broken Yolk Cafe** — national/regional chains. **Grant's Neighborhood Grill** — Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot famous for its Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a "glocal" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for "perseverance." **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain.
+*Also on our list:* **Black Bear Diner**, **Le Peep**, **Tupelo Honey Southern Kitchen & Bar**, **Broken Yolk Cafe** — national/regional chains. **Grant's Neighborhood Grill** — Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot famous for its Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a "glocal" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for "perseverance." **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **Trillium** — upscale contemporary American, downtown.
 
 ## Steak & Seafood
 
@@ -2574,7 +2454,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **La Cabinita** — We love, love, love the daddy-size michelada, and the OG margarita is a strong alternative. A consistent local favorite with great combo plates, and the house chimichanga is a hit if you're into seafood. Small gripe: prices seem to creep up 50 cents to a dollar every time we go back.
 
-*Also on our list:* **Cafe Ole** — California-style Mexican cantina, big on specialty margaritas. **Chipotle** — national fast-casual chain. **Corona Village** — traditional Mexican, well regarded locally for portions and service. **Tin Roof Tacos** — Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement.
+*Also on our list:* **Cafe Ole** — California-style Mexican cantina, big on specialty margaritas. **Corona Village** — traditional Mexican, well regarded locally for portions and service. **Tin Roof Tacos** — Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement.
 
 ## Chinese
 
@@ -2584,7 +2464,6 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Red Pavilion** — A regular stop back when we lived in Meridian. The lunch specials were great, though dinner service was hit or miss and consistency was an ongoing issue. Haven't been back in years at this point.
 
-*Also on our list:* **Panda Express** — national fast-food chain.
 
 ## Japanese, Sushi & Asian Fusion
 
@@ -2635,6 +2514,8 @@ We love dining out (but love happy hour deals even more!). After digging through
 ## Indian
 
 **Red Fort** — Hands down the best butter chicken in the valley, backed by solid naan and honest value.
+
+*Also on our list:* **Bombay Grill** and **Taj Mahal** — we've been to both, but neither stood up to the standard, flavor, quality, and value of Red Fort.
 
 ## Hawaiian & Tiki
 
