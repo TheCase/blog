@@ -15,7 +15,7 @@ last_updated: 'August 22, 2026'
   "@type": "ItemList",
   "name": "Our Favorite Boise-Area Eateries",
   "description": "A personally-curated, regularly-updated list of favorite restaurants, bars, and breweries in the Boise, Idaho metro area, with firsthand notes and reviews.",
-  "numberOfItems": 125,
+  "numberOfItems": 123,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -1124,7 +1124,7 @@ last_updated: 'August 22, 2026'
       "item": {
         "@type": "Restaurant",
         "name": "Kona Grill",
-        "servesCuisine": "Japanese",
+        "servesCuisine": "Hawaiian",
         "areaServed": {
           "@type": "City",
           "name": "Boise, Idaho"
@@ -1464,27 +1464,6 @@ last_updated: 'August 22, 2026'
       "position": 75,
       "item": {
         "@type": "Restaurant",
-        "name": "Olive Garden",
-        "servesCuisine": "Italian",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "TheCase"
-          },
-          "reviewBody": "Unlimited breadsticks and salad remain the actual draw. Dependable, consistent pasta that won't wreck the budget."
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 76,
-      "item": {
-        "@type": "Restaurant",
         "name": "Owyhee Tavern",
         "servesCuisine": "Bar",
         "areaServed": {
@@ -1503,7 +1482,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 77,
+      "position": 76,
       "item": {
         "@type": "Restaurant",
         "name": "Panda Express",
@@ -1524,7 +1503,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 78,
+      "position": 77,
       "item": {
         "@type": "Restaurant",
         "name": "Percy",
@@ -1545,7 +1524,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 79,
+      "position": 78,
       "item": {
         "@type": "Restaurant",
         "name": "Pho House",
@@ -1566,7 +1545,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 80,
+      "position": 79,
       "item": {
         "@type": "Restaurant",
         "name": "Pho Nouveau",
@@ -1587,7 +1566,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 81,
+      "position": 80,
       "item": {
         "@type": "Restaurant",
         "name": "Pie Hole",
@@ -1608,7 +1587,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 82,
+      "position": 81,
       "item": {
         "@type": "Restaurant",
         "name": "Pita Pit",
@@ -1629,7 +1608,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 83,
+      "position": 82,
       "item": {
         "@type": "Restaurant",
         "name": "RAM Brewing",
@@ -1642,7 +1621,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 84,
+      "position": 83,
       "item": {
         "@type": "Restaurant",
         "name": "Red Fort",
@@ -1663,28 +1642,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 85,
-      "item": {
-        "@type": "Restaurant",
-        "name": "Red Lobster",
-        "servesCuisine": "Steakhouse",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "TheCase"
-          },
-          "reviewBody": "national chain."
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 86,
+      "position": 84,
       "item": {
         "@type": "Restaurant",
         "name": "Red Pavilion",
@@ -1705,7 +1663,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 87,
+      "position": 85,
       "item": {
         "@type": "Restaurant",
         "name": "Reel Foods Fish Market",
@@ -1713,12 +1671,20 @@ last_updated: 'August 22, 2026'
         "areaServed": {
           "@type": "City",
           "name": "Boise, Idaho"
+        },
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TheCase"
+          },
+          "reviewBody": "Boise's only specialized seafood market; pick your seafood fresh and cook it yourself."
         }
       }
     },
     {
       "@type": "ListItem",
-      "position": 88,
+      "position": 86,
       "item": {
         "@type": "Restaurant",
         "name": "Rotary Sushi",
@@ -1739,7 +1705,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 89,
+      "position": 87,
       "item": {
         "@type": "Restaurant",
         "name": "Rudy's",
@@ -1752,7 +1718,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 90,
+      "position": 88,
       "item": {
         "@type": "Restaurant",
         "name": "Sakana",
@@ -1773,7 +1739,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 91,
+      "position": 89,
       "item": {
         "@type": "Restaurant",
         "name": "Schnitzelgarten",
@@ -1794,7 +1760,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 92,
+      "position": 90,
       "item": {
         "@type": "Restaurant",
         "name": "Seoul Street Cafe",
@@ -1815,7 +1781,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 93,
+      "position": 91,
       "item": {
         "@type": "Restaurant",
         "name": "Sidequest",
@@ -1836,7 +1802,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 94,
+      "position": 92,
       "item": {
         "@type": "Restaurant",
         "name": "Smashburger",
@@ -1849,7 +1815,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 95,
+      "position": 93,
       "item": {
         "@type": "Restaurant",
         "name": "Smoky Mountain Pizzeria Grill",
@@ -1870,7 +1836,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 96,
+      "position": 94,
       "item": {
         "@type": "Restaurant",
         "name": "Sockeye Brewing",
@@ -1891,7 +1857,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 97,
+      "position": 95,
       "item": {
         "@type": "Restaurant",
         "name": "Sonic",
@@ -1904,7 +1870,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 98,
+      "position": 96,
       "item": {
         "@type": "Restaurant",
         "name": "Stardust Restaurant & Lounge",
@@ -1925,7 +1891,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 99,
+      "position": 97,
       "item": {
         "@type": "Restaurant",
         "name": "Taphouse Pub & Eatery",
@@ -1946,7 +1912,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 100,
+      "position": 98,
       "item": {
         "@type": "Restaurant",
         "name": "Tarbush Cafe",
@@ -1967,7 +1933,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 101,
+      "position": 99,
       "item": {
         "@type": "Restaurant",
         "name": "Texas Roadhouse",
@@ -1988,7 +1954,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 102,
+      "position": 100,
       "item": {
         "@type": "Restaurant",
         "name": "The Basque Center",
@@ -2009,7 +1975,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 103,
+      "position": 101,
       "item": {
         "@type": "Restaurant",
         "name": "The Boise Post",
@@ -2030,7 +1996,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 104,
+      "position": 102,
       "item": {
         "@type": "Restaurant",
         "name": "The Brickyard",
@@ -2051,7 +2017,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 105,
+      "position": 103,
       "item": {
         "@type": "Restaurant",
         "name": "The Cheesecake Factory",
@@ -2064,7 +2030,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 106,
+      "position": 104,
       "item": {
         "@type": "Restaurant",
         "name": "The Funky Taco",
@@ -2085,7 +2051,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 107,
+      "position": 105,
       "item": {
         "@type": "Restaurant",
         "name": "The Habit",
@@ -2098,7 +2064,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 108,
+      "position": 106,
       "item": {
         "@type": "Restaurant",
         "name": "The James Kitchen & Bar",
@@ -2119,11 +2085,11 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 109,
+      "position": 107,
       "item": {
         "@type": "Restaurant",
         "name": "The Reef",
-        "servesCuisine": "American",
+        "servesCuisine": "Hawaiian",
         "areaServed": {
           "@type": "City",
           "name": "Boise, Idaho"
@@ -2140,7 +2106,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 110,
+      "position": 108,
       "item": {
         "@type": "Restaurant",
         "name": "The Warehouse",
@@ -2161,7 +2127,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 111,
+      "position": 109,
       "item": {
         "@type": "Restaurant",
         "name": "The Wylder",
@@ -2182,7 +2148,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 112,
+      "position": 110,
       "item": {
         "@type": "Restaurant",
         "name": "Tin Roof Tacos",
@@ -2203,7 +2169,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 113,
+      "position": 111,
       "item": {
         "@type": "Restaurant",
         "name": "Tony's Pizzeria Teatro",
@@ -2224,7 +2190,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 114,
+      "position": 112,
       "item": {
         "@type": "Restaurant",
         "name": "Toro's Tacos",
@@ -2245,7 +2211,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 115,
+      "position": 113,
       "item": {
         "@type": "Restaurant",
         "name": "Trillium",
@@ -2266,7 +2232,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 116,
+      "position": 114,
       "item": {
         "@type": "Restaurant",
         "name": "Tupelo Honey",
@@ -2279,7 +2245,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 117,
+      "position": 115,
       "item": {
         "@type": "Restaurant",
         "name": "UMAI",
@@ -2300,7 +2266,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 118,
+      "position": 116,
       "item": {
         "@type": "Restaurant",
         "name": "Umami Sushi Burrito",
@@ -2321,7 +2287,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 119,
+      "position": 117,
       "item": {
         "@type": "Restaurant",
         "name": "Umi Shabu Shabu",
@@ -2342,7 +2308,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 120,
+      "position": 118,
       "item": {
         "@type": "Restaurant",
         "name": "Voodoo Brewing",
@@ -2355,7 +2321,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 121,
+      "position": 119,
       "item": {
         "@type": "Restaurant",
         "name": "Westside Drive In",
@@ -2376,7 +2342,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 122,
+      "position": 120,
       "item": {
         "@type": "Restaurant",
         "name": "Wyld Child",
@@ -2397,7 +2363,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 123,
+      "position": 121,
       "item": {
         "@type": "Restaurant",
         "name": "Yard House",
@@ -2418,7 +2384,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 124,
+      "position": 122,
       "item": {
         "@type": "Restaurant",
         "name": "Yen Ching",
@@ -2439,7 +2405,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 125,
+      "position": 123,
       "item": {
         "@type": "Restaurant",
         "name": "Yoi Tomo",
@@ -2500,33 +2466,15 @@ last_updated: 'August 22, 2026'
   .eateries-catnav a.closed-link { color: #777; }
 </style>
 
-<nav class="eateries-catnav">
-  <div class="catnav-label">Categories</div>
-  <a href="#breweries--taprooms">Breweries &amp; Taprooms</a>
-  <a href="#bars--pubs">Bars &amp; Pubs</a>
-  <a href="#pizza">Pizza</a>
-  <a href="#burgers-drive-ins--fast-food">Burgers &amp; Drive-Ins</a>
-  <a href="#american-comfort--brunch">American &amp; Comfort</a>
-  <a href="#steak--seafood">Steak &amp; Seafood</a>
-  <a href="#italian">Italian</a>
-  <a href="#mexican--latin-american">Mexican &amp; Latin</a>
-  <a href="#chinese">Chinese</a>
-  <a href="#japanese-sushi--asian-fusion">Japanese &amp; Sushi</a>
-  <a href="#mediterranean--middle-eastern">Mediterranean</a>
-  <a href="#vietnamese-korean--mongolian">Viet, Korean &amp; Mongolian</a>
-  <a href="#european--basque-german--spanish">European</a>
-  <a href="#indian">Indian</a>
-  <a href="#hawaiian--tiki">Hawaiian &amp; Tiki</a>
-  <a href="#sandwiches-bagels--sweets">Sandwiches &amp; Sweets</a>
-  <a href="#food-halls--truck-parks">Food Halls</a>
-  <a href="#bbq">BBQ</a>
-  <a href="#gone-but-not-forgotten" class="closed-link">Gone But Not Forgotten</a>
-  <a href="#on-the-list">On the List</a>
-</nav>
+**Eateries List** &middot; [Where Should We Eat?]({{ site.baseurl }}/where-should-we-eat/) &middot; [Happy Hour Guide]({{ site.baseurl }}/downtown-happy-hour/)
 
 *Last updated: {{ page.last_updated }}*
 
-*A quick note on process: I had Claude comb through years of dining transactions from my budgeting app ([Monarch](https://monarch.com/referral/l8l5piey7q?r_source=copy) — yes, that's a referral link, but I genuinely love Monarch — it tracks not just our dining budget but all our budgets, and makes it easy to see what we're spending on eating out and helps us make better decisions about when it's probably time we made a few meals at home. The new receipt feature makes it better than ever with itemized records) to reconstruct where we'd actually been eating, then sat down for an "interview" where it asked me place by place and recorded my answers — so if parts of this read like they were written/assembled by AI, that's because they were. The opinions, the favorites, the gripes about overhead lighting at steakhouses — all mine. The legwork and a chunk of the prose, not so much. I wish I had the motivation and lack of procrastination to write all of this myself, but I'm lazy and time is valuable — you're lucky any of this made it out to the internet at all. Ninety spare minutes and a lot of help from AI made it happen.*
+*A quick note on process: I had Claude comb through years of dining transactions to reconstruct where we'd actually been eating, then sat down for an "interview" where it asked me place by place and recorded my answers — so if parts of this read like they were written or assembled by AI, that's because they were.*
+
+*The app that made this possible is [Monarch](https://monarch.com/referral/l8l5piey7q?r_source=copy) — yes, that's a referral link, but I genuinely love it. It tracks not just our dining budget but all our budgets, makes it easy to see what we're actually spending on eating out, and has more than once helped us decide it's probably time we made a few meals at home instead. The new receipt feature, with itemized records, makes it even better.*
+
+*The opinions, the favorites, the gripes about overhead lighting at steakhouses — all mine. The legwork and a chunk of the prose are not. I wish I had the motivation and lack of procrastination to write all of this myself, but I'm lazy and time is valuable — you're lucky any of this made it out to the internet at all. Ninety spare minutes and a lot of help from AI made it happen.*
 
 We love dining out (but love happy hour deals even more!). After digging through a few years of receipts and fondly reminiscing about it over dinner, here's the definitive (for now) rundown of our favorite places to eat in the Boise area, organized by category, with our top picks called out in each one. We're big on supporting local where we can, so you'll see that bias show up throughout — though a few well-loved chains earned their spot too. We also lost a few good ones along the way — see the "Gone But Not Forgotten" section at the bottom for those. Can't decide where to go tonight? Try the [random picker]({{ site.baseurl }}/where-should-we-eat/) — it'll choose from this whole list for you. Consider this a living document — we'll keep updating it as we revisit old favorites and check out new places.
 
@@ -2596,7 +2544,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Yard House** — A prolific happy hour. I get an $8 plate of nachos for myself — the chicken nachos are legend. Amazing drink and food specials; don't miss it.
 
-*Also on our list:* **Black Bear Diner**, **Cracker Barrel**, **Le Peep**, **The Cheesecake Factory**, **Tupelo Honey Southern Kitchen & Bar**, **Broken Yolk Cafe** — national/regional chains. **Grant's Neighborhood Grill** — Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot famous for its Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a "glocal" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for "perseverance." **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain.
+*Also on our list:* **Black Bear Diner**, **Cracker Barrel**, **Le Peep**, **The Cheesecake Factory**, **Tupelo Honey Southern Kitchen & Bar**, **Broken Yolk Cafe** — national/regional chains. **Grant's Neighborhood Grill** — Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot famous for its Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a "glocal" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for "perseverance." **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain.
 
 ## Steak & Seafood
 
@@ -2608,13 +2556,13 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Hemlock** — Mixed feelings here. The food itself can be genuinely excellent — a filet mignon that's small but outstanding — but the overall experience leaves something to be desired: it's loud, pricey, and because the steaks are served à la carte, you end up nudged into ordering oversized "shareable" sides just to round out the plate. A steak that runs well over half a Benjamin also deserves better than a bare white plate with zero garnish. The tableside potato cart — a custom baked potato built at your table — is a fun, distinctly Boise touch, but overpriced for what it delivers. The happy-hour-only "Happy Meal" (a beer and a burger for $20) is tasty, but pricey enough for happy hour that we usually end up splitting the burger.
 
-*Also on our list:* **Fresh Off The Hook** — longtime Boise seafood spot, started as a fish market in 1996, repeatedly voted Boise's Best Seafood Restaurant. **Little Pearl Oyster Bar** — Idaho's first dedicated oyster bar, husband-and-wife owned; $2 oysters on Tuesdays, walk-in only, no reservations. **Red Lobster** — national chain. **Reel Foods Fish Market & Oyster Bar** — Boise's only specialized seafood market and one of Idaho's few oyster bars; pick your seafood fresh and cook it yourself.
+*Also on our list:* **Fresh Off The Hook** — longtime Boise seafood spot, started as a fish market in 1996, repeatedly voted Boise's Best Seafood Restaurant. **Little Pearl Oyster Bar** — Idaho's first dedicated oyster bar, husband-and-wife owned; $2 oysters on Tuesdays, walk-in only, no reservations. **Red Lobster** — national chain. **Reel Foods Fish Market** — Boise's only specialized seafood market; pick your seafood fresh and cook it yourself.
 
 ## Italian
 
-**Acero** — Sophisticated, and priced fairly for the quality. Great decor and atmosphere, though honestly we mostly end up here for a pre-hockey-game drink.
+*Full disclosure: I can't stand paying big money for pasta, so this list is short. I intend to get over myself and get us out to try some of the good local Italian places we keep hearing about, like Tavolàta and ÀLAVITA.*
 
-**Olive Garden** — Unlimited breadsticks and salad remain the actual draw. Dependable, consistent pasta that won't wreck the budget.
+**Acero** — Sophisticated, and priced fairly for the quality. Great decor and atmosphere, though honestly we mostly end up here for a pre-hockey-game drink.
 
 *Also on our list:* **Sidequest** — neighborhood pasta restaurant in Boise's Bench District from the Wylder Hospitality Group, serving housemade pasta and focaccia sandwiches.
 
@@ -2652,7 +2600,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Island Sushi** — Another great sushi spot: spacious, incredible value, great food, and a friendly, family-like wait staff. The consistency is what keeps us coming back — at least every few weeks. My son is partial to the ramen here — one of his favorites in the valley.
 
-*Also on our list:* **Happy Teriyaki** — Japanese teriyaki counter-service, multiple locations. **Ginza Sushi** — Boise sushi spot. **Izumi Steakhouse** — hibachi tables with tableside cooking, full sushi menu. **Kona Grill** — national New American/sushi-fusion chain, Meridian. **Kyoto Palace** — Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name.
+*Also on our list:* **Happy Teriyaki** — Japanese teriyaki counter-service, multiple locations. **Ginza Sushi** — Boise sushi spot. **Izumi Steakhouse** — hibachi tables with tableside cooking, full sushi menu. **Kyoto Palace** — Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name.
 
 ## Mediterranean & Middle Eastern
 
@@ -2691,6 +2639,8 @@ We love dining out (but love happy hour deals even more!). After digging through
 ## Hawaiian & Tiki
 
 **Mai Tai** — It's been a while since our last visit and we're due for a return — dine-in only, no delivery. Hoping the ongoing Union Block building issues get sorted so we can go back and sit down again; we remember liking the vibe a lot.
+
+*Also on our list:* **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Kona Grill** — national New American/sushi-fusion chain, Meridian.
 
 ## Sandwiches, Bagels & Sweets
 
@@ -2740,8 +2690,32 @@ Not every favorite survives. A few we still miss:
 
 ## On the List
 
-Places we haven't made it to yet, but plan to: **The Lively**, **8 Horses Lounge** (the bank-vault bar beneath Fork), and **Tavolàta**.
+Places we haven't made it to yet, but plan to: **The Lively**, **8 Horses Lounge** (the bank-vault bar beneath Fork), **Tavolàta**, and **ÀLAVITA**.
 
 ---
 
 *Looking for happy hour specifically? Check out our [Great Downtown Boise Happy Hour]({{ site.baseurl }}/downtown-happy-hour/) guide — real days, hours, and specials.*
+
+<nav class="eateries-catnav">
+  <div class="catnav-label">Categories</div>
+  <a href="#breweries--taprooms">Breweries &amp; Taprooms</a>
+  <a href="#bars--pubs">Bars &amp; Pubs</a>
+  <a href="#pizza">Pizza</a>
+  <a href="#burgers-drive-ins--fast-food">Burgers &amp; Drive-Ins</a>
+  <a href="#american-comfort--brunch">American &amp; Comfort</a>
+  <a href="#steak--seafood">Steak &amp; Seafood</a>
+  <a href="#italian">Italian</a>
+  <a href="#mexican--latin-american">Mexican &amp; Latin</a>
+  <a href="#chinese">Chinese</a>
+  <a href="#japanese-sushi--asian-fusion">Japanese &amp; Sushi</a>
+  <a href="#mediterranean--middle-eastern">Mediterranean</a>
+  <a href="#vietnamese-korean--mongolian">Viet, Korean &amp; Mongolian</a>
+  <a href="#european--basque-german--spanish">European</a>
+  <a href="#indian">Indian</a>
+  <a href="#hawaiian--tiki">Hawaiian &amp; Tiki</a>
+  <a href="#sandwiches-bagels--sweets">Sandwiches &amp; Sweets</a>
+  <a href="#food-halls--truck-parks">Food Halls</a>
+  <a href="#bbq">BBQ</a>
+  <a href="#gone-but-not-forgotten" class="closed-link">Gone But Not Forgotten</a>
+  <a href="#on-the-list">On the List</a>
+</nav>

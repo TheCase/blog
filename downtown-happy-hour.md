@@ -10,6 +10,8 @@ comments: true
 last_updated: 'August 22, 2026'
 ---
 
+[Eateries List]({{ site.baseurl }}/boise-eateries/) &middot; [Where Should We Eat?]({{ site.baseurl }}/where-should-we-eat/) &middot; **Happy Hour Guide**
+
 *Last updated: {{ page.last_updated }}*
 
 Downtown Boise punches well above its weight for happy hour. This is a companion to our [full eateries list]({{ site.baseurl }}/boise-eateries/), scoped specifically to downtown — real days, hours, and specials, not vague "afternoons." Hours and prices change without notice, so treat this as a strong starting point, not gospel — call ahead if you're making a special trip for a specific deal.
