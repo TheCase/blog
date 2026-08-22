@@ -499,7 +499,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's."
+          "reviewBody": "One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: \"Cloud Nine, yeah the food is amazing... the beer? Not. So. Much.\""
         }
       }
     },
@@ -2492,7 +2492,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 ## Breweries & Taprooms
 
-**Cloud 9 Brewery** — One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's.
+**Cloud 9 Brewery** — One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: "Cloud Nine, yeah the food is amazing... the beer? Not. So. Much."
 
 **Barbarian Brewing** — No food here, but you're not coming for food. The beer carries it easily — hands down the best barrel-aged sours in the valley.
 
