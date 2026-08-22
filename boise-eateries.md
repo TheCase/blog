@@ -835,27 +835,6 @@ last_updated: 'August 22, 2026'
       "position": 42,
       "item": {
         "@type": "Restaurant",
-        "name": "Graveyard B&G",
-        "servesCuisine": "Bar",
-        "areaServed": {
-          "@type": "City",
-          "name": "Boise, Idaho"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "TheCase"
-          },
-          "reviewBody": "despite the name, more of a late-night pop-up than a bar and grill, serving New American food (notably biscuits and gravy) through a walk-up window at set times."
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 43,
-      "item": {
-        "@type": "Restaurant",
         "name": "Green Acres Food Truck Park",
         "servesCuisine": "Food Court",
         "areaServed": {
@@ -874,7 +853,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 44,
+      "position": 43,
       "item": {
         "@type": "Restaurant",
         "name": "Grimaldi's",
@@ -887,7 +866,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 45,
+      "position": 44,
       "item": {
         "@type": "Restaurant",
         "name": "Gyro Shack",
@@ -908,7 +887,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 46,
+      "position": 45,
       "item": {
         "@type": "Restaurant",
         "name": "Happy Teriyaki",
@@ -929,7 +908,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 47,
+      "position": 46,
       "item": {
         "@type": "Restaurant",
         "name": "Hemlock",
@@ -950,7 +929,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 48,
+      "position": 47,
       "item": {
         "@type": "Restaurant",
         "name": "Holy Cow",
@@ -963,7 +942,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 49,
+      "position": 48,
       "item": {
         "@type": "Restaurant",
         "name": "Hops & Bottles",
@@ -984,7 +963,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 50,
+      "position": 49,
       "item": {
         "@type": "Restaurant",
         "name": "Island Sushi",
@@ -1005,7 +984,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 51,
+      "position": 50,
       "item": {
         "@type": "Restaurant",
         "name": "Izumi Steakhouse",
@@ -1026,7 +1005,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 52,
+      "position": 51,
       "item": {
         "@type": "Restaurant",
         "name": "Kahootz",
@@ -1039,7 +1018,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 53,
+      "position": 52,
       "item": {
         "@type": "Restaurant",
         "name": "Kona Grill",
@@ -1060,7 +1039,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 54,
+      "position": 53,
       "item": {
         "@type": "Restaurant",
         "name": "Kyoto Palace",
@@ -1081,7 +1060,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 55,
+      "position": 54,
       "item": {
         "@type": "Restaurant",
         "name": "La Cabinita",
@@ -1102,7 +1081,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 56,
+      "position": 55,
       "item": {
         "@type": "Restaurant",
         "name": "Land Ocean",
@@ -1123,7 +1102,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 57,
+      "position": 56,
       "item": {
         "@type": "Restaurant",
         "name": "Le Peep",
@@ -1136,7 +1115,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 58,
+      "position": 57,
       "item": {
         "@type": "Restaurant",
         "name": "Little Pearl Oyster Bar",
@@ -1157,7 +1136,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 59,
+      "position": 58,
       "item": {
         "@type": "Restaurant",
         "name": "Lost Grove Brewing",
@@ -1178,7 +1157,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 60,
+      "position": 59,
       "item": {
         "@type": "Restaurant",
         "name": "Maddie's Wine and Whiskey",
@@ -1199,7 +1178,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 61,
+      "position": 60,
       "item": {
         "@type": "Restaurant",
         "name": "Mai Tai",
@@ -1214,13 +1193,13 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "It's been a while since our last visit and we're due for a return — dine-in only, no delivery. Hoping the ongoing Union Block building issues get sorted so we can go back and sit down again; we remember liking the vibe a lot."
+          "reviewBody": "It's been a while since our last visit and we'd love to try it again, but it's currently takeout/delivery only until the Union Block situation gets squared away. Hoping that happens soon so we can go back and sit down again; we remember liking the vibe a lot."
         }
       }
     },
     {
       "@type": "ListItem",
-      "position": 62,
+      "position": 61,
       "item": {
         "@type": "Restaurant",
         "name": "Main Street Burger",
@@ -1241,7 +1220,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 63,
+      "position": 62,
       "item": {
         "@type": "Restaurant",
         "name": "Mazzah Mediterranean Grill",
@@ -1257,6 +1236,27 @@ last_updated: 'August 22, 2026'
             "name": "TheCase"
           },
           "reviewBody": "A Boise mainstay, and we're big fans of the gyros. The falafel's never quite landed for us — it reads a little premade — but we could be wrong there. What might be the most underrated fries in the valley live here too: classic bowling-alley-style fries, consistently hot, fresh, and good."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 63,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Mo Betta's",
+        "servesCuisine": "Hawaiian",
+        "areaServed": {
+          "@type": "City",
+          "name": "Boise, Idaho"
+        },
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TheCase"
+          },
+          "reviewBody": "Good portions for the value, but honestly I've never really been a fan. The pork tends to be a bit salty and the servings could be leaner; the beef and chicken run dry. I think they need to reevaluate the quality of the product. Sorry — we like Hawaiian food, but this place has just never triggered the need to return. We burned through some gift cards over a few visits and probably won't be going "
         }
       }
     },
@@ -2384,7 +2384,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Taphouse Pub & Eatery** — Solid food, a great rotating craft beer selection, a solid happy hour, and great value.
 
-*Also on our list:* **Gramercy Park Pub & Grill** — Meridian neighborhood bar serving Italian-leaning American pub food and craft cocktails. **Graveyard B&G** — despite the name, more of a late-night pop-up than a bar and grill, serving New American food (notably biscuits and gravy) through a walk-up window at set times. **Kahootz Steak & Alehouse** — Meridian gastropub built around steak, seafood, and comfort food.
+*Also on our list:* **Gramercy Park Pub & Grill** — Meridian neighborhood bar serving Italian-leaning American pub food and craft cocktails. **Kahootz Steak & Alehouse** — Meridian gastropub built around steak, seafood, and comfort food.
 
 ## Pizza
 
@@ -2519,7 +2519,9 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 ## Hawaiian & Tiki
 
-**Mai Tai** — It's been a while since our last visit and we're due for a return — dine-in only, no delivery. Hoping the ongoing Union Block building issues get sorted so we can go back and sit down again; we remember liking the vibe a lot.
+**Mai Tai** — It's been a while since our last visit and we'd love to try it again, but it's currently takeout/delivery only until the Union Block situation gets squared away. Hoping that happens soon so we can go back and sit down again; we remember liking the vibe a lot.
+
+**Mo Betta's** — Good portions for the value, but honestly I've never really been a fan. The pork tends to be a bit salty and the servings could be leaner; the beef and chicken run dry. I think they need to reevaluate the quality of the product. Sorry — we like Hawaiian food, but this place has just never triggered the need to return. We burned through some gift cards over a few visits and probably won't be going back.
 
 *Also on our list:* **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Kona Grill** — national New American/sushi-fusion chain, Meridian.
 
@@ -2571,7 +2573,7 @@ Not every favorite survives. A few we still miss:
 
 ## On the List
 
-Places we haven't made it to yet, but plan to: **The Lively**, **8 Horses Lounge** (the bank-vault bar beneath Fork), **Tavolàta**, and **ÀLAVITA**.
+Places we haven't made it to yet, but plan to: **The Lively**, **8 Horses Lounge** (the bank-vault bar beneath Fork), **Tavolàta**, **ÀLAVITA**, and **Graveyard B&G** — a biscuits-and-gravy pop-up that serves out of the Zen Bento walk-up window (1000 W Main St) on set dates and times, announced via Facebook rather than regular hours. Might take some effort to actually catch it open.
 
 ---
 
