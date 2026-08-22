@@ -9,7 +9,6 @@ permalink: /boise-eateries/
 comments: true
 last_updated: 'August 22, 2026'
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -111,7 +110,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Come for the croquetas, stay for the Schlomo and other sandwiches, all backed by a genuinely fantastic craft beer list. A must-visit, and a true Boise institution."
+          "reviewBody": "Come for the croquetas, stay for the Schlomo and other sandwiches, all backed by an outstanding craft beer list. A must-visit, and a true Boise institution."
         }
       }
     },
@@ -195,7 +194,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot known for Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a \"glocal\" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitali"
+          "reviewBody": "Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open."
         }
       }
     },
@@ -216,7 +215,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "one of the largest rotating craft beer selections in Idaho, paired with a locally-sourced pub menu; sister venue to the adjacent Red Feather Lounge. **Clairvoyant Brewing** — set in a converted auto shop with a big dog-friendly patio and rotating food trucks; survived a 2025 closure scare and is back brewing its own beer in-house again. **Hops & Bottles** — casual, dog-friendly beer bar built around its bottle selection. **RAM Restaurant & Brewery** — national brewpub chain; the Boise location remains open. **Sockeye Brewing** — Boise brewery and taproom on Fairview Ave. **Voodoo Brewing Co.**"
+          "reviewBody": "one of the largest rotating craft beer selections in Idaho, paired with a locally-sourced pub menu; sister venue to the adjacent Red Feather Lounge."
         }
       }
     },
@@ -250,7 +249,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "There's a fun bit of pizza lineage here: chef Josh Pejsa, who opened Flatbread Pizza (now closed — see below), now runs the kitchen at Black Moon, and it shows in the quality. They even named a pizza after him — \"Josh's Guilty Pleasure.\" The origin story's good too: co-owner Barry Faught originally just wanted equipment for baked goods to supply his coffee shop, Broadcast Coffee, and discovered along the way that the mixers and ovens were just as good for pizza. Great happy hour and beer selection. We've only had the pizza so far, but it's worth the drive out to Garden City on its own."
+          "reviewBody": "There's a fun bit of pizza lineage here: chef Josh Pejsa, who opened Flatbread Pizza (now closed — see below), now runs the kitchen at Black Moon, and it shows in the quality. They even named a pizza after him — \"Josh's Guilty Pleasure.\" The origin story's good too: co-owner Barry Faught originally just wanted equipment for baked goods to supply his coffee shop, Broadcast Coffee, and discovered al"
         }
       }
     },
@@ -284,7 +283,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "A must for anyone who takes fries seriously. Their line is \"fries with burgers on the side,\" and honestly the burgers hold up too — a bit smaller than you'd expect, but no shortage of flavor. Six rotating potato varieties year-round across several cut styles; we usually keep it simple with regular-cut russets. It's a bit of a shame they've pared back the salts and sauces over the years, but building your own combo is still part of the fun — curry ketchup is our go-to, and the marshmallow dip is a surprisingly good match for the sweet potato fries."
+          "reviewBody": "A must for anyone who takes fries seriously. Their line is \"fries with burgers on the side,\" and honestly the burgers hold up too — a bit smaller than you'd expect, but no shortage of flavor. Six rotating potato varieties year-round across several cut styles; we usually keep it simple with regular-cut russets. It's a bit of a shame they've pared back the salts and sauces over the years, but buildi"
         }
       }
     },
@@ -360,7 +359,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "California-style Mexican cantina known for specialty margaritas. **Chipotle** — national fast-casual chain. **Corona Village** — traditional Mexican, well regarded locally for portions and service. **Tin Roof Tacos** — Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement."
+          "reviewBody": "California-style Mexican cantina, big on specialty margaritas."
         }
       }
     },
@@ -381,7 +380,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Puerto Rican cafe in Boise. **Cafe Ole** — California-style Mexican cantina known for specialty margaritas. **Chipotle** — national fast-casual chain. **Corona Village** — traditional Mexican, well regarded locally for portions and service. **Tin Roof Tacos** — Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement."
+          "reviewBody": "Puerto Rican cafe in Boise."
         }
       }
     },
@@ -436,7 +435,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "The steaks don't mess around. A classic, upscale, dark-wood steakhouse with a genuinely cozy feel, often with live piano jazz going. Our one gripe: the overhead table spotlights make dinner feel a little like an interrogation."
+          "reviewBody": "The steaks don't mess around. A classic, upscale, dark-wood steakhouse with a warmly cozy feel, often with live piano jazz going. Our one gripe: the overhead table spotlights make dinner feel a little like an interrogation."
         }
       }
     },
@@ -457,7 +456,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "national fast-casual chain. **Corona Village** — traditional Mexican, well regarded locally for portions and service. **Tin Roof Tacos** — Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement."
+          "reviewBody": "national fast-casual chain."
         }
       }
     },
@@ -478,7 +477,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "set in a converted auto shop with a big dog-friendly patio and rotating food trucks; survived a 2025 closure scare and is back brewing its own beer in-house again. **Hops & Bottles** — casual, dog-friendly beer bar built around its bottle selection. **RAM Restaurant & Brewery** — national brewpub chain; the Boise location remains open. **Sockeye Brewing** — Boise brewery and taproom on Fairview Ave. **Voodoo Brewing Co.** — regional brewery chain with locations in both Boise and Meridian."
+          "reviewBody": "set in a converted auto shop with a big dog-friendly patio and rotating food trucks; survived a 2025 closure scare and is back brewing its own beer in-house again."
         }
       }
     },
@@ -499,7 +498,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: \"Cloud Nine, yeah the food is amazing... the beer? Not. So. Much.\" I'd genuinely love to sit down with the brewer over a beer sometime. I'm no pro, but I used to homebrew myself, and people were usually pretty surprised when I told them I made it and"
+          "reviewBody": "One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: \"Cloud Nine, yeah the food is amazing... the beer?"
         }
       }
     },
@@ -541,7 +540,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "A true Boise institution for sandwiches — huge, classic subs, and we appreciate that chips and apples are still on the side menu. Simple, and it works."
+          "reviewBody": "A Boise classic for sandwiches — huge, classic subs, and we appreciate that chips and apples are still on the side menu. Simple, and it works."
         }
       }
     },
@@ -562,7 +561,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "traditional Mexican, well regarded locally for portions and service. **Tin Roof Tacos** — Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement."
+          "reviewBody": "traditional Mexican, well regarded locally for portions and service."
         }
       }
     },
@@ -722,7 +721,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "longtime Boise seafood spot, started as a fish market in 1996, repeatedly voted Boise's Best Seafood Restaurant. **Little Pearl Oyster Bar** — Idaho's first dedicated oyster bar, husband-and-wife owned; $2 oysters on Tuesdays, walk-in only, no reservations. **Red Lobster** — national chain. **Reel Foods Fish Market & Oyster Bar** — Boise's only specialized seafood market and one of Idaho's few oyster bars; pick your seafood fresh and cook it yourself."
+          "reviewBody": "longtime Boise seafood spot, started as a fish market in 1996, repeatedly voted Boise's Best Seafood Restaurant."
         }
       }
     },
@@ -785,7 +784,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Boise sushi spot. **Izumi Steakhouse** — hibachi tables with tableside cooking, full sushi menu. **Kona Grill** — national New American/sushi-fusion chain, Meridian. **Kyoto Palace** — Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name."
+          "reviewBody": "Boise sushi spot."
         }
       }
     },
@@ -903,7 +902,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot known for Cinnamon Roll French Toast and "
+          "reviewBody": "Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers."
         }
       }
     },
@@ -924,7 +923,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "despite the name, more of a late-night pop-up than a bar and grill, serving New American food (notably biscuits and gravy) through a walk-up window at set times. **Kahootz Steak & Alehouse** — Meridian gastropub built around steak, seafood, and comfort food."
+          "reviewBody": "despite the name, more of a late-night pop-up than a bar and grill, serving New American food (notably biscuits and gravy) through a walk-up window at set times."
         }
       }
     },
@@ -1000,7 +999,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Japanese teriyaki counter-service, multiple locations. **Ginza Sushi** — Boise sushi spot. **Izumi Steakhouse** — hibachi tables with tableside cooking, full sushi menu. **Kona Grill** — national New American/sushi-fusion chain, Meridian. **Kyoto Palace** — Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name."
+          "reviewBody": "Japanese teriyaki counter-service, multiple locations."
         }
       }
     },
@@ -1021,7 +1020,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Mixed feelings here. The food itself can be genuinely excellent — a filet mignon that's small but outstanding — but the overall experience leaves something to be desired: it's loud, pricey, and because the steaks are served à la carte, you end up nudged into ordering oversized \"shareable\" sides just to round out the plate. A steak that runs well over half a Benjamin also deserves better than a bare white plate with zero garnish. The tableside potato cart — a custom baked potato built at your table — is a fun, distinctly Boise touch, but overpriced for what it delivers. The happy-hour-only \"Hap"
+          "reviewBody": "Mixed feelings here. The food itself can be genuinely excellent — a filet mignon that's small but outstanding — but the overall experience leaves something to be desired: it's loud, pricey, and because the steaks are served à la carte, you end up nudged into ordering oversized \"shareable\" sides just to round out the plate. A steak that runs well over half a Benjamin also deserves better than a bar"
         }
       }
     },
@@ -1055,7 +1054,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "casual, dog-friendly beer bar built around its bottle selection. **RAM Restaurant & Brewery** — national brewpub chain; the Boise location remains open. **Sockeye Brewing** — Boise brewery and taproom on Fairview Ave. **Voodoo Brewing Co.** — regional brewery chain with locations in both Boise and Meridian."
+          "reviewBody": "casual, dog-friendly beer bar built around its bottle selection."
         }
       }
     },
@@ -1110,7 +1109,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "hibachi tables with tableside cooking, full sushi menu. **Kona Grill** — national New American/sushi-fusion chain, Meridian. **Kyoto Palace** — Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name."
+          "reviewBody": "hibachi tables with tableside cooking, full sushi menu."
         }
       }
     },
@@ -1157,7 +1156,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "national New American/sushi-fusion chain, Meridian. **Kyoto Palace** — Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name."
+          "reviewBody": "national New American/sushi-fusion chain, Meridian."
         }
       }
     },
@@ -1178,7 +1177,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name."
+          "reviewBody": "Treasure Valley hibachi/teppanyaki institution for 30+ years."
         }
       }
     },
@@ -1254,7 +1253,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Idaho's first dedicated oyster bar, husband-and-wife owned; $2 oysters on Tuesdays, walk-in only, no reservations. **Red Lobster** — national chain. **Reel Foods Fish Market & Oyster Bar** — Boise's only specialized seafood market and one of Idaho's few oyster bars; pick your seafood fresh and cook it yourself."
+          "reviewBody": "Idaho's first dedicated oyster bar, husband-and-wife owned; $2 oysters on Tuesdays, walk-in only, no reservations."
         }
       }
     },
@@ -1275,7 +1274,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Worth calling out for pairing genuinely good food with top-notch beer, and from what we remember, a good value to boot."
+          "reviewBody": "Worth calling out for pairing legitimately good food with top-notch beer, and from what we remember, a good value to boot."
         }
       }
     },
@@ -1338,7 +1337,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Meridian burger counter known for 1/3-lb organic beef patties and a jalapeño-jack \"5 Alarm Burger.\""
+          "reviewBody": "Meridian burger counter serving 1/3-lb organic beef patties and a jalapeño-jack \"5 Alarm Burger.\""
         }
       }
     },
@@ -1359,7 +1358,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Another Boise institution, and we're big fans of the gyros. The falafel's never quite landed for us — it reads a little premade — but we could be wrong there. What might be the most underrated fries in the valley live here too: classic bowling-alley-style fries, consistently hot, fresh, and good."
+          "reviewBody": "A Boise mainstay, and we're big fans of the gyros. The falafel's never quite landed for us — it reads a little premade — but we could be wrong there. What might be the most underrated fries in the valley live here too: classic bowling-alley-style fries, consistently hot, fresh, and good."
         }
       }
     },
@@ -1393,7 +1392,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "national fast-casual, build-your-own chains. **Grimaldi's Pizzeria** — coal-fired pizza chain, local outpost in Meridian. **Old Chicago** — national pizza-and-pub chain with a deep beer list. **Pie Hole** — downtown pizza-by-the-slice spot, Food Network-recognized as one of the 50 best pizza slices in America. **The Wylder** — downtown pizza spot in the Fowler building on Grove St., known for sourdough pizza made from a 58-year-old starter."
+          "reviewBody": "national fast-casual, build-your-own chains."
         }
       }
     },
@@ -1414,7 +1413,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Meridian scratch-kitchen breakfast spot known for Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a \"glocal\" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for \"perseverance.\" **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004,"
+          "reviewBody": "Meridian scratch-kitchen breakfast spot famous for its Cinnamon Roll French Toast and hash bowls."
         }
       }
     },
@@ -1477,7 +1476,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "national pizza-and-pub chain with a deep beer list. **Pie Hole** — downtown pizza-by-the-slice spot, Food Network-recognized as one of the 50 best pizza slices in America. **The Wylder** — downtown pizza spot in the Fowler building on Grove St., known for sourdough pizza made from a 58-year-old starter."
+          "reviewBody": "national pizza-and-pub chain with a deep beer list."
         }
       }
     },
@@ -1561,7 +1560,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for \"perseverance.\" **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain."
+          "reviewBody": "downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for \"perseverance.\""
         }
       }
     },
@@ -1624,7 +1623,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "downtown pizza-by-the-slice spot, Food Network-recognized as one of the 50 best pizza slices in America. **The Wylder** — downtown pizza spot in the Fowler building on Grove St., known for sourdough pizza made from a 58-year-old starter."
+          "reviewBody": "downtown pizza-by-the-slice spot, Food Network-recognized as one of the 50 best pizza slices in America."
         }
       }
     },
@@ -1679,7 +1678,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Hands down the best butter chicken in the valley, backed by solid naan and genuinely good value."
+          "reviewBody": "Hands down the best butter chicken in the valley, backed by solid naan and honest value."
         }
       }
     },
@@ -1700,7 +1699,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "national chain. **Reel Foods Fish Market & Oyster Bar** — Boise's only specialized seafood market and one of Idaho's few oyster bars; pick your seafood fresh and cook it yourself."
+          "reviewBody": "national chain."
         }
       }
     },
@@ -1755,7 +1754,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name."
+          "reviewBody": "conveyor-belt (kaiten) sushi."
         }
       }
     },
@@ -1789,7 +1788,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name."
+          "reviewBody": "sushi and steak, known for inventive rolls."
         }
       }
     },
@@ -1852,7 +1851,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "neighborhood pasta restaurant in Boise's Bench District from the Wylder Hospitality Group, known for housemade pasta and focaccia sandwiches."
+          "reviewBody": "neighborhood pasta restaurant in Boise's Bench District from the Wylder Hospitality Group, serving housemade pasta and focaccia sandwiches."
         }
       }
     },
@@ -1907,7 +1906,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Boise brewery and taproom on Fairview Ave. **Voodoo Brewing Co.** — regional brewery chain with locations in both Boise and Meridian."
+          "reviewBody": "Boise brewery and taproom on Fairview Ave."
         }
       }
     },
@@ -1983,7 +1982,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "The owners make this place — we're welcomed in like family every time, and the food backs it up. The falafel, the beef shawarma sandwiches, and the hummus plate are all favorites. It's clear how much they care about what they're making, and it comes through in every bite. Another true Boise institution."
+          "reviewBody": "The owners make this place — we're welcomed in like family every time, and the food backs it up. The falafel, the beef shawarma sandwiches, and the hummus plate are all favorites. It's clear how much they care about what they're making, and it comes through in every bite. A real Boise treasure."
         }
       }
     },
@@ -2004,7 +2003,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "The free bread and cinnamon butter isn't really why we go, but nobody's turning it down either — it's basically dessert at the start of the meal. It runs loud, and the down-home theming isn't really our style, but a steak with two comfort-food sides is a genuinely good deal. Highlights: the seasoned kabob plate, the sirloin, and the country fried steak."
+          "reviewBody": "The free bread and cinnamon butter isn't really why we go, but nobody's turning it down either — it's basically dessert at the start of the meal. It runs loud, and the down-home theming isn't really our style, but a steak with two comfort-food sides is a legitimately good deal. Highlights: the seasoned kabob plate, the sirloin, and the country fried steak."
         }
       }
     },
@@ -2025,7 +2024,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "community bar and event venue on the Basque Block since the late 1940s, more cultural hall than restaurant. **Maddie's Wine and Whiskey** — Meridian lounge serving tapas and small plates alongside an extensive wine and whiskey list, named after owner Steve Bainbridge's late dog, Maddie."
+          "reviewBody": "community bar and event venue on the Basque Block since the late 1940s, more cultural hall than restaurant."
         }
       }
     },
@@ -2046,7 +2045,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a \"glocal\" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for \"perseverance.\" **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, dow"
+          "reviewBody": "rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a \"glocal\" (globally-influenced, locally-sourced) menu, opened 2026."
         }
       }
     },
@@ -2067,7 +2066,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain."
+          "reviewBody": "downtown restaurant and bar."
         }
       }
     },
@@ -2156,7 +2155,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain."
+          "reviewBody": "tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music."
         }
       }
     },
@@ -2198,7 +2197,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "downtown pizza spot in the Fowler building on Grove St., known for sourdough pizza made from a 58-year-old starter."
+          "reviewBody": "downtown pizza spot in the Fowler building on Grove St., famous for sourdough pizza made from a 58-year-old starter."
         }
       }
     },
@@ -2219,7 +2218,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement."
+          "reviewBody": "Texas-street-taco-style counter founded by two sisters from Texas."
         }
       }
     },
@@ -2282,7 +2281,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "upscale contemporary American, downtown. **Applebee's** — national chain."
+          "reviewBody": "upscale contemporary American, downtown."
         }
       }
     },
@@ -2358,7 +2357,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Individual soup bowls for each person, with raw meats (sliced beef, pork, chicken) and seafood and veggie selections to cook yourself, right at your table, in your choice of soup base. A bit pricey, but all-you-can-eat, and a genuinely unique Boise-area experience."
+          "reviewBody": "Individual soup bowls for each person, with raw meats (sliced beef, pork, chicken) and seafood and veggie selections to cook yourself, right at your table, in your choice of soup base. A bit pricey, but all-you-can-eat, and a truly unique Boise-area experience."
         }
       }
     },
@@ -2413,7 +2412,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "Excellent smash-style burgers in a genuinely fun space. Grab a beer or some ice cream while you're there."
+          "reviewBody": "Excellent smash-style burgers in a properly fun space. Grab a beer or some ice cream while you're there."
         }
       }
     },
@@ -2455,7 +2454,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "A local institution, and arguably the best Chinese food we've had since leaving San Francisco — which is a genuinely high bar. Good happy hour drink selection too."
+          "reviewBody": "A neighborhood mainstay, and arguably the best Chinese food we've had since leaving San Francisco — which is a seriously high bar. Good happy hour drink selection too."
         }
       }
     },
@@ -2484,6 +2483,7 @@ last_updated: 'August 22, 2026'
 }
 </script>
 
+
 *Last updated: {{ page.last_updated }}*
 
 *A quick note on process: I had Claude comb through years of dining transactions from my budgeting app ([Monarch](https://monarch.com/referral/l8l5piey7q?r_source=copy) — yes, that's a referral link, but I genuinely love Monarch — it tracks not just our dining budget but all our budgets, and makes it easy to see what we're spending on eating out and helps us make better decisions about when it's probably time we made a few meals at home. The new receipt feature makes it better than ever with itemized records) to reconstruct where we'd actually been eating, then sat down for an "interview" where it asked me place by place and recorded my answers — so if parts of this read like they were written/assembled by AI, that's because they were. The opinions, the favorites, the gripes about overhead lighting at steakhouses — all mine. The legwork and a chunk of the prose, not so much. I wish I had the motivation and lack of procrastination to write all of this myself, but I'm lazy and time is valuable — you're lucky any of this made it out to the internet at all. Ninety spare minutes and a lot of help from AI made it happen.*
@@ -2492,13 +2492,13 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 ## Breweries & Taprooms
 
-**Cloud 9 Brewery** — One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: "Cloud Nine, yeah the food is amazing... the beer? Not. So. Much." I'd genuinely love to sit down with the brewer over a beer sometime. I'm no pro, but I used to homebrew myself, and people were usually pretty surprised when I told them I made it and it wasn't something I picked up at the store. I might have a pointer or two — clean your gear? Are you reusing the yeast from the last batch every time?
+**Cloud 9 Brewery** — One of our most-visited spots, and for good reason: great burgers and salads, plus fries that hold their own against Highlands Hollow's. That said — what's up with their beers? The quality has slipped over the years, and honestly some of it tastes like the effort of a guy who just started learning to homebrew. Seems to be a fairly common critique: "Cloud Nine, yeah the food is amazing... the beer? Not. So. Much." I'd honestly love to sit down with the brewer over a beer sometime. I'm no pro, but I used to homebrew myself, and people were usually pretty surprised when I told them I made it and it wasn't something I picked up at the store. I might have a pointer or two — clean your gear? Are you reusing the yeast from the last batch every time?
 
 **Barbarian Brewing** — No food here, but you're not coming for food. The beer carries it easily — hands down the best barrel-aged sours in the valley. They're also seriously creative with flavor profiles and real ingredient selections — whole fruits? Bags worth of full-sized candy bars? Cans of Country Time lemonade powder mix? You never quite know what's going into the next batch.
 
 **Broad Street Kitchen** *(formerly Boise Brewing)* — Solid beers across the board, and the kitchen pulls its weight too — the banh mi bulgogi and the black bean burger or taquitos are standouts.
 
-**Lost Grove Brewing** *(Hyde Park)* — Worth calling out for pairing genuinely good food with top-notch beer, and from what we remember, a good value to boot.
+**Lost Grove Brewing** *(Hyde Park)* — Worth calling out for pairing legitimately good food with top-notch beer, and from what we remember, a good value to boot.
 
 *Also on our list:* **10 Barrel Brewing Co.** — downtown Boise brewpub since 2006, part of the national 10 Barrel chain, known for pub fare from fried brussels sprouts to gourmet burgers and fish tacos. **Bittercreek Alehouse** — one of the largest rotating craft beer selections in Idaho, paired with a locally-sourced pub menu; sister venue to the adjacent Red Feather Lounge. **Clairvoyant Brewing** — set in a converted auto shop with a big dog-friendly patio and rotating food trucks; survived a 2025 closure scare and is back brewing its own beer in-house again. **Hops & Bottles** — casual, dog-friendly beer bar built around its bottle selection. **RAM Restaurant & Brewery** — national brewpub chain; the Boise location remains open. **Sockeye Brewing** — Boise brewery and taproom on Fairview Ave. **Voodoo Brewing Co.** — regional brewery chain with locations in both Boise and Meridian.
 
@@ -2508,7 +2508,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Owyhee Tavern** — We've only made it in for happy hour so far, but the vibe is right and the kung pao calamari is worth ordering on its own.
 
-**Wyld Child** — Excellent smash-style burgers in a genuinely fun space. Grab a beer or some ice cream while you're there.
+**Wyld Child** — Excellent smash-style burgers in a properly fun space. Grab a beer or some ice cream while you're there.
 
 **Gil's K-9** — Classic mid-century dive bar vibe. Don't miss the finger steaks.
 
@@ -2528,7 +2528,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Black Moon** *(Garden City)* — There's a fun bit of pizza lineage here: chef Josh Pejsa, who opened Flatbread Pizza (now closed — see below), now runs the kitchen at Black Moon, and it shows in the quality. They even named a pizza after him — "Josh's Guilty Pleasure." The origin story's good too: co-owner Barry Faught originally just wanted equipment for baked goods to supply his coffee shop, Broadcast Coffee, and discovered along the way that the mixers and ovens were just as good for pizza. Great happy hour and beer selection. We've only had the pizza so far, but it's worth the drive out to Garden City on its own.
 
-*Also on our list:* **Blaze Pizza** and **MOD Pizza** — national fast-casual, build-your-own chains. **Grimaldi's Pizzeria** — coal-fired pizza chain, local outpost in Meridian. **Old Chicago** — national pizza-and-pub chain with a deep beer list. **Pie Hole** — downtown pizza-by-the-slice spot, Food Network-recognized as one of the 50 best pizza slices in America. **The Wylder** — downtown pizza spot in the Fowler building on Grove St., known for sourdough pizza made from a 58-year-old starter.
+*Also on our list:* **Blaze Pizza** and **MOD Pizza** — national fast-casual, build-your-own chains. **Grimaldi's Pizzeria** — coal-fired pizza chain, local outpost in Meridian. **Old Chicago** — national pizza-and-pub chain with a deep beer list. **Pie Hole** — downtown pizza-by-the-slice spot, Food Network-recognized as one of the 50 best pizza slices in America. **The Wylder** — downtown pizza spot in the Fowler building on Grove St., famous for sourdough pizza made from a 58-year-old starter.
 
 ## Burgers, Drive-Ins & Fast Food
 
@@ -2540,7 +2540,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Big Jud's** — Home of the one-pound cheeseburger challenge; 1,000+ finishers have their photo on the wall. Yeah, it's big, but it doesn't lack for juiciness and quality.
 
-*Also on our list:* **Carl's Jr.**, **KFC**, **McDonald's**, **Smashburger**, **Sonic Drive-In**, **The Habit Burger Grill** — national chains. **Main Street Burger** — Meridian burger counter known for 1/3-lb organic beef patties and a jalapeño-jack "5 Alarm Burger."
+*Also on our list:* **Carl's Jr.**, **KFC**, **McDonald's**, **Smashburger**, **Sonic Drive-In**, **The Habit Burger Grill** — national chains. **Main Street Burger** — Meridian burger counter serving 1/3-lb organic beef patties and a jalapeño-jack "5 Alarm Burger."
 
 ## American, Comfort & Brunch
 
@@ -2556,15 +2556,15 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Yard House** — A prolific happy hour. I get an $8 plate of nachos for myself — the chicken nachos are legend. Amazing drink and food specials; don't miss it.
 
-*Also on our list:* **Black Bear Diner**, **Cracker Barrel**, **Le Peep**, **The Cheesecake Factory**, **Tupelo Honey Southern Kitchen & Bar**, **Broken Yolk Cafe** — national/regional chains. **Grant's Neighborhood Grill** — Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot known for Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a "glocal" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for "perseverance." **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain.
+*Also on our list:* **Black Bear Diner**, **Cracker Barrel**, **Le Peep**, **The Cheesecake Factory**, **Tupelo Honey Southern Kitchen & Bar**, **Broken Yolk Cafe** — national/regional chains. **Grant's Neighborhood Grill** — Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot famous for its Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a "glocal" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for "perseverance." **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain.
 
 ## Steak & Seafood
 
 **Land Ocean** — The surf and turf is the move. The teriyaki glaze is dark but not heavy — sweet without tipping into overpowering. The beer-battered fried prawns, light and fluffy, paired with a coconut dipping sauce, might be the single best plate on the menu.
 
-**Chandlers** — The steaks don't mess around. A classic, upscale, dark-wood steakhouse with a genuinely cozy feel, often with live piano jazz going. Our one gripe: the overhead table spotlights make dinner feel a little like an interrogation.
+**Chandlers** — The steaks don't mess around. A classic, upscale, dark-wood steakhouse with a warmly cozy feel, often with live piano jazz going. Our one gripe: the overhead table spotlights make dinner feel a little like an interrogation.
 
-**Texas Roadhouse** — The free bread and cinnamon butter isn't really why we go, but nobody's turning it down either — it's basically dessert at the start of the meal. It runs loud, and the down-home theming isn't really our style, but a steak with two comfort-food sides is a genuinely good deal. Highlights: the seasoned kabob plate, the sirloin, and the country fried steak.
+**Texas Roadhouse** — The free bread and cinnamon butter isn't really why we go, but nobody's turning it down either — it's basically dessert at the start of the meal. It runs loud, and the down-home theming isn't really our style, but a steak with two comfort-food sides is a legitimately good deal. Highlights: the seasoned kabob plate, the sirloin, and the country fried steak.
 
 **Hemlock** — Mixed feelings here. The food itself can be genuinely excellent — a filet mignon that's small but outstanding — but the overall experience leaves something to be desired: it's loud, pricey, and because the steaks are served à la carte, you end up nudged into ordering oversized "shareable" sides just to round out the plate. A steak that runs well over half a Benjamin also deserves better than a bare white plate with zero garnish. The tableside potato cart — a custom baked potato built at your table — is a fun, distinctly Boise touch, but overpriced for what it delivers. The happy-hour-only "Happy Meal" (a beer and a burger for $20) is tasty, but pricey enough for happy hour that we usually end up splitting the burger.
 
@@ -2576,7 +2576,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Olive Garden** — Unlimited breadsticks and salad remain the actual draw. Dependable, consistent pasta that won't wreck the budget.
 
-*Also on our list:* **Sidequest** — neighborhood pasta restaurant in Boise's Bench District from the Wylder Hospitality Group, known for housemade pasta and focaccia sandwiches.
+*Also on our list:* **Sidequest** — neighborhood pasta restaurant in Boise's Bench District from the Wylder Hospitality Group, serving housemade pasta and focaccia sandwiches.
 
 ## Mexican & Latin American
 
@@ -2586,11 +2586,11 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **La Cabinita** — We love, love, love the daddy-size michelada, and the OG margarita is a strong alternative. A consistent local favorite with great combo plates, and the house chimichanga is a hit if you're into seafood. Small gripe: prices seem to creep up 50 cents to a dollar every time we go back.
 
-*Also on our list:* **Cafe Wepa** — Puerto Rican cafe in Boise. **Cafe Ole** — California-style Mexican cantina known for specialty margaritas. **Chipotle** — national fast-casual chain. **Corona Village** — traditional Mexican, well regarded locally for portions and service. **Tin Roof Tacos** — Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement.
+*Also on our list:* **Cafe Wepa** — Puerto Rican cafe in Boise. **Cafe Ole** — California-style Mexican cantina, big on specialty margaritas. **Chipotle** — national fast-casual chain. **Corona Village** — traditional Mexican, well regarded locally for portions and service. **Tin Roof Tacos** — Texas-street-taco-style counter founded by two sisters from Texas. **Toro's Tacos** — a Nampa taqueria's new downtown Boise location, inside the Shrine Social Club basement.
 
 ## Chinese
 
-**Yen Ching** — A local institution, and arguably the best Chinese food we've had since leaving San Francisco — which is a genuinely high bar. Good happy hour drink selection too.
+**Yen Ching** — A neighborhood mainstay, and arguably the best Chinese food we've had since leaving San Francisco — which is a seriously high bar. Good happy hour drink selection too.
 
 **Grand China Buffet** — It's exactly what it sounds like — an all-you-can-eat buffet. Not really my thing personally, but my wife and kid hit it (along with IHOP) every time I'm out of town.
 
@@ -2608,7 +2608,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Fujiyama** *(mall location)* — Basic decor, but the food and value make the trip worth it on their own. One of my favorite sushi-rice ratios for nigiri anywhere — right up there with Yoi Tomo. Don't skip the "Snowball" appetizer.
 
-**Umi Shabu Shabu** — Individual soup bowls for each person, with raw meats (sliced beef, pork, chicken) and seafood and veggie selections to cook yourself, right at your table, in your choice of soup base. A bit pricey, but all-you-can-eat, and a genuinely unique Boise-area experience.
+**Umi Shabu Shabu** — Individual soup bowls for each person, with raw meats (sliced beef, pork, chicken) and seafood and veggie selections to cook yourself, right at your table, in your choice of soup base. A bit pricey, but all-you-can-eat, and a truly unique Boise-area experience.
 
 **Island Sushi** — Another great sushi spot: spacious, incredible value, great food, and a friendly, family-like wait staff. The consistency is what keeps us coming back — at least every few weeks. My son is partial to the ramen here — one of his favorites in the valley.
 
@@ -2616,11 +2616,11 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 ## Mediterranean & Middle Eastern
 
-**Mazzah Mediterranean Grill** — Another Boise institution, and we're big fans of the gyros. The falafel's never quite landed for us — it reads a little premade — but we could be wrong there. What might be the most underrated fries in the valley live here too: classic bowling-alley-style fries, consistently hot, fresh, and good.
+**Mazzah Mediterranean Grill** — A Boise mainstay, and we're big fans of the gyros. The falafel's never quite landed for us — it reads a little premade — but we could be wrong there. What might be the most underrated fries in the valley live here too: classic bowling-alley-style fries, consistently hot, fresh, and good.
 
 **Gyro Shack** — A solid, classic gyro at a fair price for the portion. Our go-to backup when Mazzah isn't in the cards.
 
-**Tarbush Cafe** — The owners make this place — we're welcomed in like family every time, and the food backs it up. The falafel, the beef shawarma sandwiches, and the hummus plate are all favorites. It's clear how much they care about what they're making, and it comes through in every bite. Another true Boise institution.
+**Tarbush Cafe** — The owners make this place — we're welcomed in like family every time, and the food backs it up. The falafel, the beef shawarma sandwiches, and the hummus plate are all favorites. It's clear how much they care about what they're making, and it comes through in every bite. A real Boise treasure.
 
 **Pita Pit** — A fave of ours for a quick, tasty bite. We really miss the late-night hours of the old downtown location.
 
@@ -2638,7 +2638,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Epi's** — A true Basque diner, and our go-to for lamb stew and chorizo, alongside the croquetas — an absolute must-order. They treat you like family here. If you're coming from out of town, book your reservation months ahead.
 
-**Bar Gernika** — Come for the croquetas, stay for the Schlomo and other sandwiches, all backed by a genuinely fantastic craft beer list. A must-visit, and a true Boise institution.
+**Bar Gernika** — Come for the croquetas, stay for the Schlomo and other sandwiches, all backed by an outstanding craft beer list. A must-visit, and a true Boise institution.
 
 **Schnitzelgarten** — A German food hall serving up authentic Bavarian fare with a solid beer list. Built for large groups — which you'll want, because tackling the sausage sampler solo is not recommended.
 
@@ -2646,7 +2646,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 ## Indian
 
-**Red Fort** — Hands down the best butter chicken in the valley, backed by solid naan and genuinely good value.
+**Red Fort** — Hands down the best butter chicken in the valley, backed by solid naan and honest value.
 
 ## Hawaiian & Tiki
 
@@ -2654,7 +2654,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 ## Sandwiches, Bagels & Sweets
 
-**Cobby's Sandwich Shop** — A true Boise institution for sandwiches — huge, classic subs, and we appreciate that chips and apples are still on the side menu. Simple, and it works.
+**Cobby's Sandwich Shop** — A Boise classic for sandwiches — huge, classic subs, and we appreciate that chips and apples are still on the side menu. Simple, and it works.
 
 **Good Times Bagels** — Great atmosphere, and everything we've tried (just the bagel sandwiches so far) has been well made with real attention to detail — though $12 for a small bagel sandwich takes some getting used to. Also had one of their bagels solo at the Boise farmers market once — solid. We'll be back for more bagels eventually.
 
