@@ -8,7 +8,7 @@ permalink: /where-should-we-eat/
 comments: true
 ---
 
-Can't decide? Neither can we, most nights. Hit the button and let it pick from our full list of [Boise-area favorites]({{ site.baseurl }}/boise-eateries/) — if you don't like the answer, tell it "nah" and try again.
+Can't decide? Neither can we, most nights. Hit the button and let it pick from our full list of [Boise-area favorites]({{ site.baseurl }}/boise-eateries/) — if you don't like the answer, tell it "nah" and try again. If it points you downtown, check the [happy hour guide]({{ site.baseurl }}/downtown-happy-hour/) before you go.
 
 <div class="picker">
   <div class="card empty" id="card">

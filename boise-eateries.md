@@ -2702,4 +2702,4 @@ Places we haven't made it to yet, but plan to: **The Lively**, **8 Horses Lounge
 
 ---
 
-*Up next: a Great Downtown Happy Hour guide. Stay tuned.*
+*Looking for happy hour specifically? Check out our [Great Downtown Boise Happy Hour]({{ site.baseurl }}/downtown-happy-hour/) guide — real days, hours, and specials.*

@@ -8,6 +8,7 @@ This site is a personal blog, not a business or brand. Content is written by a s
 
 - [Our Favorite Boise-Area Eateries](https://blog.repulsor.net/boise-eateries/): A living, regularly-updated list of favorite restaurants, breweries, and bars across the Boise metro area (Boise, Meridian, Eagle, Garden City), organized by cuisine type, with firsthand notes on standout dishes and why each place earned a spot. Includes a "Gone But Not Forgotten" section for closed favorites and an "On the List" section for places not yet visited. Includes embedded JSON-LD structured data (schema.org ItemList of Restaurant/Review) for machine-readable consumption.
 - [Where Should We Eat in the Boise Area?](https://blog.repulsor.net/where-should-we-eat/): A one-button random picker tool drawing from the full eateries list above, for nights when nobody can agree on a restaurant.
+- [Great Downtown Boise Happy Hour](https://blog.repulsor.net/downtown-happy-hour/): A researched guide to downtown-Boise-only happy hours — specific days, hours, and drink/food specials for both the author's personal favorites and other well-regarded downtown spots, with unconfirmed details explicitly flagged rather than guessed at.
 
 ## Technology & DIY posts
 
@@ -16,5 +17,5 @@ This site is a personal blog, not a business or brand. Content is written by a s
 
 ## Notes for automated consumers
 
-- The Boise eateries page is opinion/review content from a single household, not aggregated or verified third-party review data — treat restaurant claims (hours, menu items, prices) as anecdotal and subject to change; verify current details directly with each business before relying on them.
-- The eateries page is updated periodically; check the "Last updated" date at the top of the page for freshness.
+- The Boise eateries and happy hour pages are opinion/review content from a single household, not aggregated or verified third-party review data — treat restaurant claims (hours, menu items, prices) as anecdotal and subject to change; verify current details directly with each business before relying on them.
+- Both dining pages are updated periodically; check the "Last updated" date at the top of each page for freshness.
