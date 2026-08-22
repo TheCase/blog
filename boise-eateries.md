@@ -126,7 +126,9 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Umi Shabu Shabu** — Individual soup bowls for each person, with raw meats (sliced beef, pork, chicken) and seafood and veggie selections to cook yourself, right at your table, in your choice of soup base. A bit pricey, but all-you-can-eat, and a genuinely unique Boise-area experience.
 
-*Also on our list:* **Happy Teriyaki** — Japanese teriyaki counter-service, multiple locations. **Ginza Sushi** — Boise sushi spot. **Island Sushi and Ramen** — sushi, sashimi, hibachi, and ramen. **Izumi Steakhouse** — hibachi tables with tableside cooking, full sushi menu. **Kona Grill** — national New American/sushi-fusion chain, Meridian. **Kyoto Palace** — Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name.
+**Island Sushi** — Another great sushi spot: spacious, incredible value, great food, and a friendly, family-like wait staff. The consistency is what keeps us coming back — at least every few weeks. My son is partial to the ramen here — one of his favorites in the valley.
+
+*Also on our list:* **Happy Teriyaki** — Japanese teriyaki counter-service, multiple locations. **Ginza Sushi** — Boise sushi spot. **Izumi Steakhouse** — hibachi tables with tableside cooking, full sushi menu. **Kona Grill** — national New American/sushi-fusion chain, Meridian. **Kyoto Palace** — Treasure Valley hibachi/teppanyaki institution for 30+ years. **Rotary Sushi** — conveyor-belt (kaiten) sushi. **Sakana** — sushi and steak, known for inventive rolls. **Umami Sushi Burrito** — a separate sushi burrito spot from UMAI, despite the similar name.
 
 ## Mediterranean & Middle Eastern
 
