@@ -16,7 +16,7 @@ last_updated: 'August 22, 2026'
   "@type": "ItemList",
   "name": "Our Favorite Boise-Area Eateries",
   "description": "A personally-curated, regularly-updated list of favorite restaurants, bars, and breweries in the Boise, Idaho metro area, with firsthand notes and reviews.",
-  "numberOfItems": 125,
+  "numberOfItems": 126,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -1561,7 +1561,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for \"perseverance.\" **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Yard House** — national chain restaurant and beer bar with an extensive draft list, Meridian location. **Applebee's** — national chain."
+          "reviewBody": "downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for \"perseverance.\" **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain."
         }
       }
     },
@@ -1645,7 +1645,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "national fast-casual Mediterranean-style sandwich chain."
+          "reviewBody": "A fave of ours for a quick, tasty bite. We really miss the late-night hours of the old downtown location."
         }
       }
     },
@@ -1950,6 +1950,27 @@ last_updated: 'August 22, 2026'
       "position": 100,
       "item": {
         "@type": "Restaurant",
+        "name": "Taphouse Pub & Eatery",
+        "servesCuisine": "Bar",
+        "areaServed": {
+          "@type": "City",
+          "name": "Boise, Idaho"
+        },
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TheCase"
+          },
+          "reviewBody": "Solid food, a great rotating craft beer selection, a solid happy hour, and great value."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 101,
+      "item": {
+        "@type": "Restaurant",
         "name": "Tarbush Cafe",
         "servesCuisine": "Mediterranean",
         "areaServed": {
@@ -1968,7 +1989,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 101,
+      "position": 102,
       "item": {
         "@type": "Restaurant",
         "name": "Texas Roadhouse",
@@ -1989,7 +2010,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 102,
+      "position": 103,
       "item": {
         "@type": "Restaurant",
         "name": "The Basque Center",
@@ -2010,7 +2031,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 103,
+      "position": 104,
       "item": {
         "@type": "Restaurant",
         "name": "The Boise Post",
@@ -2031,7 +2052,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 104,
+      "position": 105,
       "item": {
         "@type": "Restaurant",
         "name": "The Brickyard",
@@ -2046,13 +2067,13 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Yard House** — national chain restaurant and beer bar with an extensive draft list, Meridian location. **Applebee's** — national chain."
+          "reviewBody": "downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain."
         }
       }
     },
     {
       "@type": "ListItem",
-      "position": 105,
+      "position": 106,
       "item": {
         "@type": "Restaurant",
         "name": "The Cheesecake Factory",
@@ -2065,7 +2086,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 106,
+      "position": 107,
       "item": {
         "@type": "Restaurant",
         "name": "The Funky Taco",
@@ -2086,7 +2107,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 107,
+      "position": 108,
       "item": {
         "@type": "Restaurant",
         "name": "The Habit",
@@ -2099,7 +2120,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 108,
+      "position": 109,
       "item": {
         "@type": "Restaurant",
         "name": "The James Kitchen & Bar",
@@ -2120,7 +2141,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 109,
+      "position": 110,
       "item": {
         "@type": "Restaurant",
         "name": "The Reef",
@@ -2135,13 +2156,13 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Yard House** — national chain restaurant and beer bar with an extensive draft list, Meridian location. **Applebee's** — national chain."
+          "reviewBody": "tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain."
         }
       }
     },
     {
       "@type": "ListItem",
-      "position": 110,
+      "position": 111,
       "item": {
         "@type": "Restaurant",
         "name": "The Warehouse",
@@ -2162,7 +2183,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 111,
+      "position": 112,
       "item": {
         "@type": "Restaurant",
         "name": "The Wylder",
@@ -2183,7 +2204,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 112,
+      "position": 113,
       "item": {
         "@type": "Restaurant",
         "name": "Tin Roof Tacos",
@@ -2204,7 +2225,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 113,
+      "position": 114,
       "item": {
         "@type": "Restaurant",
         "name": "Tony's Pizzeria Teatro",
@@ -2225,7 +2246,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 114,
+      "position": 115,
       "item": {
         "@type": "Restaurant",
         "name": "Toro's Tacos",
@@ -2246,7 +2267,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 115,
+      "position": 116,
       "item": {
         "@type": "Restaurant",
         "name": "Trillium",
@@ -2261,13 +2282,13 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "upscale contemporary American, downtown. **Yard House** — national chain restaurant and beer bar with an extensive draft list, Meridian location. **Applebee's** — national chain."
+          "reviewBody": "upscale contemporary American, downtown. **Applebee's** — national chain."
         }
       }
     },
     {
       "@type": "ListItem",
-      "position": 116,
+      "position": 117,
       "item": {
         "@type": "Restaurant",
         "name": "Tupelo Honey",
@@ -2280,7 +2301,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 117,
+      "position": 118,
       "item": {
         "@type": "Restaurant",
         "name": "UMAI",
@@ -2301,7 +2322,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 118,
+      "position": 119,
       "item": {
         "@type": "Restaurant",
         "name": "Umami Sushi Burrito",
@@ -2322,7 +2343,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 119,
+      "position": 120,
       "item": {
         "@type": "Restaurant",
         "name": "Umi Shabu Shabu",
@@ -2343,7 +2364,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 120,
+      "position": 121,
       "item": {
         "@type": "Restaurant",
         "name": "Voodoo Brewing",
@@ -2356,7 +2377,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 121,
+      "position": 122,
       "item": {
         "@type": "Restaurant",
         "name": "Westside Drive In",
@@ -2377,7 +2398,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 122,
+      "position": 123,
       "item": {
         "@type": "Restaurant",
         "name": "Wyld Child",
@@ -2398,7 +2419,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 123,
+      "position": 124,
       "item": {
         "@type": "Restaurant",
         "name": "Yard House",
@@ -2413,13 +2434,13 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "national chain restaurant and beer bar with an extensive draft list, Meridian location. **Applebee's** — national chain."
+          "reviewBody": "A prolific happy hour. I get an $8 plate of nachos for myself — the chicken nachos are legend. Amazing drink and food specials; don't miss it."
         }
       }
     },
     {
       "@type": "ListItem",
-      "position": 124,
+      "position": 125,
       "item": {
         "@type": "Restaurant",
         "name": "Yen Ching",
@@ -2440,7 +2461,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 125,
+      "position": 126,
       "item": {
         "@type": "Restaurant",
         "name": "Yoi Tomo",
@@ -2493,6 +2514,8 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Double Tap Pub** — Large portions for the value, an amazing beer selection, and a plethora of TV screens for sports viewing.
 
+**Taphouse Pub & Eatery** — Solid food, a great rotating craft beer selection, a solid happy hour, and great value.
+
 *Also on our list:* **Gramercy Park Pub & Grill** — Meridian neighborhood bar serving Italian-leaning American pub food and craft cocktails. **Graveyard B&G** — despite the name, more of a late-night pop-up than a bar and grill, serving New American food (notably biscuits and gravy) through a walk-up window at set times. **Kahootz Steak & Alehouse** — Meridian gastropub built around steak, seafood, and comfort food.
 
 ## Pizza
@@ -2531,7 +2554,9 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Fork** — Been a bit of a mixed bag lately, though that might be on us — we've been wandering off our usual (excellent) burger order to try new things, and probably need to circle back to it. Still a great beer and wine list and a great location downtown. Still owe ourselves a visit to 8 Horses Lounge, the bar hidden below it behind an old bank vault door.
 
-*Also on our list:* **Black Bear Diner**, **Cracker Barrel**, **Le Peep**, **The Cheesecake Factory**, **Tupelo Honey Southern Kitchen & Bar**, **Broken Yolk Cafe** — national/regional chains. **Grant's Neighborhood Grill** — Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot known for Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a "glocal" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for "perseverance." **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Yard House** — national chain restaurant and beer bar with an extensive draft list, Meridian location. **Applebee's** — national chain.
+**Yard House** — A prolific happy hour. I get an $8 plate of nachos for myself — the chicken nachos are legend. Amazing drink and food specials; don't miss it.
+
+*Also on our list:* **Black Bear Diner**, **Cracker Barrel**, **Le Peep**, **The Cheesecake Factory**, **Tupelo Honey Southern Kitchen & Bar**, **Broken Yolk Cafe** — national/regional chains. **Grant's Neighborhood Grill** — Meridian restaurant with a deliberately short menu centered on steak, seafood, and gourmet burgers. **Holy Cow Idaho!** — independent burger shop devoted to Idaho beef, flagship in Nampa with a second location in Eagle. **Biscuit & Hogs** — Meridian brunch spot known for massive portions (15-inch plates, pancakes that come in a pizza box) built around pork belly bacon and biscuits smothered in country gravy. One location closed in 2024, but a second Meridian location remains open. **Moe Joe's Breakfast Eatery** — Meridian scratch-kitchen breakfast spot known for Cinnamon Roll French Toast and hash bowls. **The Boise Post** — rooftop restaurant/bar on the 16th floor of the AC Hotel downtown, a "glocal" (globally-influenced, locally-sourced) menu, opened 2026. **Percy** — downtown wood-grilled New American from the Wylder Hospitality Group; the name is short for "perseverance." **Rudy's Pub & Grill** — Boise-area neighborhood pub chain, an independent-spirited alternative to chain pubs. **The Brickyard** — downtown restaurant and bar. **The Reef** — tiki-themed restaurant and rooftop bar open since 2004, blending Latin, Caribbean, and Polynesian food with live music. **Trillium** — upscale contemporary American, downtown. **Applebee's** — national chain.
 
 ## Steak & Seafood
 
@@ -2597,7 +2622,7 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Tarbush Cafe** — The owners make this place — we're welcomed in like family every time, and the food backs it up. The falafel, the beef shawarma sandwiches, and the hummus plate are all favorites. It's clear how much they care about what they're making, and it comes through in every bite. Another true Boise institution.
 
-*Also on our list:* **Pita Pit** — national fast-casual Mediterranean-style sandwich chain.
+**Pita Pit** — A fave of ours for a quick, tasty bite. We really miss the late-night hours of the old downtown location.
 
 ## Vietnamese, Korean & Mongolian
 
