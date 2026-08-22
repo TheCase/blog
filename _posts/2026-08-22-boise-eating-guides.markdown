@@ -3,7 +3,7 @@ layout: post
 title: 'Introducing: Our Boise Eating Guides'
 date: '2026-08-22 18:00:00'
 categories:
-- Dining
+- Food
 ---
 
 <svg viewBox="0 0 1200 280" width="100%" height="220" preserveAspectRatio="xMidYMax slice" role="img" aria-label="Illustrated silhouette of the Boise foothills and downtown skyline at dusk" style="display:block; border-radius:6px;">
