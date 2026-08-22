@@ -2,6 +2,10 @@
 layout: post
 title: 'Introducing: Our Boise Eating Guides'
 date: '2026-08-22 18:00:00'
+excerpt: >-
+  Three new living pages: our full Boise-area eateries list, a random
+  picker for when nobody can decide, and a downtown happy hour guide
+  with real days, hours, and specials.
 categories:
 - Food
 ---
