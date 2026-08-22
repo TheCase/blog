@@ -1564,6 +1564,14 @@ last_updated: 'August 22, 2026'
         "areaServed": {
           "@type": "City",
           "name": "Boise, Idaho"
+        },
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TheCase"
+          },
+          "reviewBody": "Love the brats and kraut, and the smoked ham hock is surprisingly huge and delicious."
         }
       }
     },
@@ -2588,6 +2596,8 @@ We love dining out (but love happy hour deals even more!). After digging through
 **Schnitzelgarten** — A German food hall serving up authentic Bavarian fare with a solid beer list. Built for large groups — which you'll want, because tackling the sausage sampler solo is not recommended.
 
 **Das Alpenhaus Delikatessen** — Great schnitzel and imported draft German beers, and the best pretzel in town. It's spendy, but worth a try. Shout out to Boise Beer Buddies — Das Alpenhaus offers 10% off all purchases for current Beer Buddy members, and that discount concept generally applies across their 100+ participating local businesses if you're a member.
+
+**Prost! Boise** — Love the brats and kraut, and the smoked ham hock is surprisingly huge and delicious.
 
 *Also on our list:* **The Basque Center** — community bar and event venue on the Basque Block since the late 1940s, more cultural hall than restaurant. **Maddie's Wine and Whiskey** — Meridian lounge serving tapas and small plates alongside an extensive wine and whiskey list, named after owner Steve Bainbridge's late dog, Maddie.
 
