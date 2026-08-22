@@ -15,7 +15,7 @@ last_updated: 'August 22, 2026'
   "@type": "ItemList",
   "name": "Our Favorite Boise-Area Eateries",
   "description": "A personally-curated, regularly-updated list of favorite restaurants, bars, and breweries in the Boise, Idaho metro area, with firsthand notes and reviews.",
-  "numberOfItems": 117,
+  "numberOfItems": 119,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -633,6 +633,27 @@ last_updated: 'August 22, 2026'
       "position": 32,
       "item": {
         "@type": "Restaurant",
+        "name": "Eureka!",
+        "servesCuisine": "American",
+        "areaServed": {
+          "@type": "City",
+          "name": "Boise, Idaho"
+        },
+        "review": {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TheCase"
+          },
+          "reviewBody": "Mid-level at best on our last visit. The food was sub-par, not what we're used to for a normal 8th Street experience, and the waiter got our order wrong — brought the same burger twice even though we'd ordered two different ones, then made an excuse that we should just keep it because the kitchen was too busy to fix it."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "Restaurant",
         "name": "Flying Pie",
         "servesCuisine": "Pizza",
         "areaServed": {
@@ -651,7 +672,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 34,
       "item": {
         "@type": "Restaurant",
         "name": "Fork",
@@ -672,7 +693,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 35,
       "item": {
         "@type": "Restaurant",
         "name": "Fresh Off The Hook",
@@ -693,7 +714,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 35,
+      "position": 36,
       "item": {
         "@type": "Restaurant",
         "name": "Fujiyama",
@@ -714,7 +735,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 36,
+      "position": 37,
       "item": {
         "@type": "Restaurant",
         "name": "Gil's K-9",
@@ -735,7 +756,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 37,
+      "position": 38,
       "item": {
         "@type": "Restaurant",
         "name": "Ginza Sushi",
@@ -756,7 +777,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 39,
       "item": {
         "@type": "Restaurant",
         "name": "Good Times Bagels",
@@ -777,7 +798,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 40,
       "item": {
         "@type": "Restaurant",
         "name": "Goodwood",
@@ -798,7 +819,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 41,
       "item": {
         "@type": "Restaurant",
         "name": "Goody's Soda Fountain",
@@ -819,7 +840,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 41,
+      "position": 42,
       "item": {
         "@type": "Restaurant",
         "name": "Gramercy Park Pub",
@@ -832,7 +853,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 42,
+      "position": 43,
       "item": {
         "@type": "Restaurant",
         "name": "Grand China Buffet",
@@ -853,7 +874,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 43,
+      "position": 44,
       "item": {
         "@type": "Restaurant",
         "name": "Grant's Neighborhood Grill",
@@ -874,7 +895,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 44,
+      "position": 45,
       "item": {
         "@type": "Restaurant",
         "name": "Green Acres Food Truck Park",
@@ -895,7 +916,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 45,
+      "position": 46,
       "item": {
         "@type": "Restaurant",
         "name": "Grimaldi's",
@@ -908,7 +929,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 46,
+      "position": 47,
       "item": {
         "@type": "Restaurant",
         "name": "Gyro Shack",
@@ -929,7 +950,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 47,
+      "position": 48,
       "item": {
         "@type": "Restaurant",
         "name": "Happy Teriyaki",
@@ -950,7 +971,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 48,
+      "position": 49,
       "item": {
         "@type": "Restaurant",
         "name": "Hemlock",
@@ -971,7 +992,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 49,
+      "position": 50,
       "item": {
         "@type": "Restaurant",
         "name": "Holy Cow",
@@ -984,7 +1005,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 50,
+      "position": 51,
       "item": {
         "@type": "Restaurant",
         "name": "Hops & Bottles",
@@ -1005,7 +1026,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 51,
+      "position": 52,
       "item": {
         "@type": "Restaurant",
         "name": "Island Sushi",
@@ -1026,7 +1047,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 52,
+      "position": 53,
       "item": {
         "@type": "Restaurant",
         "name": "Izumi Steakhouse",
@@ -1047,7 +1068,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 53,
+      "position": 54,
       "item": {
         "@type": "Restaurant",
         "name": "Kahootz",
@@ -1060,7 +1081,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 54,
+      "position": 55,
       "item": {
         "@type": "Restaurant",
         "name": "Kona Grill",
@@ -1081,7 +1102,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 55,
+      "position": 56,
       "item": {
         "@type": "Restaurant",
         "name": "Kyoto Palace",
@@ -1102,7 +1123,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 56,
+      "position": 57,
       "item": {
         "@type": "Restaurant",
         "name": "La Cabinita",
@@ -1123,7 +1144,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 57,
+      "position": 58,
       "item": {
         "@type": "Restaurant",
         "name": "Land Ocean",
@@ -1144,7 +1165,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 58,
+      "position": 59,
       "item": {
         "@type": "Restaurant",
         "name": "Le Peep",
@@ -1157,7 +1178,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 59,
+      "position": 60,
       "item": {
         "@type": "Restaurant",
         "name": "Little Pearl Oyster Bar",
@@ -1178,7 +1199,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 60,
+      "position": 61,
       "item": {
         "@type": "Restaurant",
         "name": "Lost Grove Brewing",
@@ -1199,7 +1220,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 61,
+      "position": 62,
       "item": {
         "@type": "Restaurant",
         "name": "Maddie's Wine and Whiskey",
@@ -1220,7 +1241,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 62,
+      "position": 63,
       "item": {
         "@type": "Restaurant",
         "name": "Mai Tai",
@@ -1241,7 +1262,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 63,
+      "position": 64,
       "item": {
         "@type": "Restaurant",
         "name": "Main Street Burger",
@@ -1262,7 +1283,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 64,
+      "position": 65,
       "item": {
         "@type": "Restaurant",
         "name": "Mazzah Mediterranean Grill",
@@ -1283,7 +1304,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 65,
+      "position": 66,
       "item": {
         "@type": "Restaurant",
         "name": "Mo Betta's",
@@ -1304,7 +1325,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 66,
+      "position": 67,
       "item": {
         "@type": "Restaurant",
         "name": "MOD Pizza",
@@ -1325,7 +1346,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 67,
+      "position": 68,
       "item": {
         "@type": "Restaurant",
         "name": "Moe Joe's Breakfast Eatery",
@@ -1346,7 +1367,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 68,
+      "position": 69,
       "item": {
         "@type": "Restaurant",
         "name": "Mongolian BBQ",
@@ -1367,7 +1388,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 69,
+      "position": 70,
       "item": {
         "@type": "Restaurant",
         "name": "Nanzaya",
@@ -1388,7 +1409,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 70,
+      "position": 71,
       "item": {
         "@type": "Restaurant",
         "name": "Old Chicago",
@@ -1409,7 +1430,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 71,
+      "position": 72,
       "item": {
         "@type": "Restaurant",
         "name": "Owyhee Tavern",
@@ -1430,7 +1451,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 72,
+      "position": 73,
       "item": {
         "@type": "Restaurant",
         "name": "Percy",
@@ -1451,7 +1472,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 73,
+      "position": 74,
       "item": {
         "@type": "Restaurant",
         "name": "Pho House",
@@ -1472,7 +1493,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 74,
+      "position": 75,
       "item": {
         "@type": "Restaurant",
         "name": "Pho Nouveau",
@@ -1493,7 +1514,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 75,
+      "position": 76,
       "item": {
         "@type": "Restaurant",
         "name": "Pie Hole",
@@ -1514,7 +1535,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 76,
+      "position": 77,
       "item": {
         "@type": "Restaurant",
         "name": "Pita Pit",
@@ -1535,7 +1556,20 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 77,
+      "position": 78,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Prost! Boise",
+        "servesCuisine": "Basque",
+        "areaServed": {
+          "@type": "City",
+          "name": "Boise, Idaho"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 79,
       "item": {
         "@type": "Restaurant",
         "name": "RAM Brewing",
@@ -1548,7 +1582,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 78,
+      "position": 80,
       "item": {
         "@type": "Restaurant",
         "name": "Red Fort",
@@ -1569,7 +1603,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 79,
+      "position": 81,
       "item": {
         "@type": "Restaurant",
         "name": "Red Pavilion",
@@ -1590,7 +1624,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 80,
+      "position": 82,
       "item": {
         "@type": "Restaurant",
         "name": "Reel Foods Fish Market",
@@ -1611,7 +1645,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 81,
+      "position": 83,
       "item": {
         "@type": "Restaurant",
         "name": "Rotary Sushi",
@@ -1632,7 +1666,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 82,
+      "position": 84,
       "item": {
         "@type": "Restaurant",
         "name": "Rudy's",
@@ -1645,7 +1679,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 83,
+      "position": 85,
       "item": {
         "@type": "Restaurant",
         "name": "Sakana",
@@ -1666,7 +1700,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 84,
+      "position": 86,
       "item": {
         "@type": "Restaurant",
         "name": "Schnitzelgarten",
@@ -1687,7 +1721,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 85,
+      "position": 87,
       "item": {
         "@type": "Restaurant",
         "name": "Seoul Street Cafe",
@@ -1708,7 +1742,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 86,
+      "position": 88,
       "item": {
         "@type": "Restaurant",
         "name": "Sidequest",
@@ -1729,7 +1763,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 87,
+      "position": 89,
       "item": {
         "@type": "Restaurant",
         "name": "Smashburger",
@@ -1742,7 +1776,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 88,
+      "position": 90,
       "item": {
         "@type": "Restaurant",
         "name": "Smoky Mountain Pizzeria Grill",
@@ -1763,7 +1797,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 89,
+      "position": 91,
       "item": {
         "@type": "Restaurant",
         "name": "Sockeye Brewing",
@@ -1784,7 +1818,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 90,
+      "position": 92,
       "item": {
         "@type": "Restaurant",
         "name": "Stardust Restaurant & Lounge",
@@ -1805,7 +1839,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 91,
+      "position": 93,
       "item": {
         "@type": "Restaurant",
         "name": "Taj Mahal",
@@ -1826,7 +1860,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 92,
+      "position": 94,
       "item": {
         "@type": "Restaurant",
         "name": "Taphouse Pub & Eatery",
@@ -1847,7 +1881,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 93,
+      "position": 95,
       "item": {
         "@type": "Restaurant",
         "name": "Tarbush Cafe",
@@ -1868,7 +1902,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 94,
+      "position": 96,
       "item": {
         "@type": "Restaurant",
         "name": "Texas Roadhouse",
@@ -1889,7 +1923,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 95,
+      "position": 97,
       "item": {
         "@type": "Restaurant",
         "name": "The Basque Center",
@@ -1910,7 +1944,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 96,
+      "position": 98,
       "item": {
         "@type": "Restaurant",
         "name": "The Boise Post",
@@ -1931,7 +1965,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 97,
+      "position": 99,
       "item": {
         "@type": "Restaurant",
         "name": "The Brickyard",
@@ -1952,7 +1986,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 98,
+      "position": 100,
       "item": {
         "@type": "Restaurant",
         "name": "The Funky Taco",
@@ -1973,7 +2007,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 99,
+      "position": 101,
       "item": {
         "@type": "Restaurant",
         "name": "The Habit",
@@ -1986,7 +2020,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 100,
+      "position": 102,
       "item": {
         "@type": "Restaurant",
         "name": "The James Kitchen & Bar",
@@ -2007,7 +2041,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 101,
+      "position": 103,
       "item": {
         "@type": "Restaurant",
         "name": "The Reef",
@@ -2028,7 +2062,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 102,
+      "position": 104,
       "item": {
         "@type": "Restaurant",
         "name": "The Warehouse",
@@ -2049,7 +2083,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 103,
+      "position": 105,
       "item": {
         "@type": "Restaurant",
         "name": "The Wylder",
@@ -2070,7 +2104,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 104,
+      "position": 106,
       "item": {
         "@type": "Restaurant",
         "name": "Tin Roof Tacos",
@@ -2091,7 +2125,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 105,
+      "position": 107,
       "item": {
         "@type": "Restaurant",
         "name": "Tony's Pizzeria Teatro",
@@ -2112,7 +2146,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 106,
+      "position": 108,
       "item": {
         "@type": "Restaurant",
         "name": "Toro's Tacos",
@@ -2133,7 +2167,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 107,
+      "position": 109,
       "item": {
         "@type": "Restaurant",
         "name": "Trillium",
@@ -2154,7 +2188,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 108,
+      "position": 110,
       "item": {
         "@type": "Restaurant",
         "name": "Tupelo Honey",
@@ -2167,7 +2201,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 109,
+      "position": 111,
       "item": {
         "@type": "Restaurant",
         "name": "UMAI",
@@ -2188,7 +2222,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 110,
+      "position": 112,
       "item": {
         "@type": "Restaurant",
         "name": "Umami Sushi Burrito",
@@ -2209,7 +2243,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 111,
+      "position": 113,
       "item": {
         "@type": "Restaurant",
         "name": "Umi Shabu Shabu",
@@ -2230,7 +2264,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 112,
+      "position": 114,
       "item": {
         "@type": "Restaurant",
         "name": "Voodoo Brewing",
@@ -2243,7 +2277,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 113,
+      "position": 115,
       "item": {
         "@type": "Restaurant",
         "name": "Westside Drive In",
@@ -2264,7 +2298,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 114,
+      "position": 116,
       "item": {
         "@type": "Restaurant",
         "name": "Wyld Child",
@@ -2285,7 +2319,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 115,
+      "position": 117,
       "item": {
         "@type": "Restaurant",
         "name": "Yard House",
@@ -2306,7 +2340,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 116,
+      "position": 118,
       "item": {
         "@type": "Restaurant",
         "name": "Yen Ching",
@@ -2327,7 +2361,7 @@ last_updated: 'August 22, 2026'
     },
     {
       "@type": "ListItem",
-      "position": 117,
+      "position": 119,
       "item": {
         "@type": "Restaurant",
         "name": "Yoi Tomo",
@@ -2398,7 +2432,7 @@ last_updated: 'August 22, 2026'
 
 *The opinions, the favorites, the gripes about overhead lighting at steakhouses — all mine. The legwork and a chunk of the prose are not. I wish I had the motivation and lack of procrastination to write all of this myself, but I'm lazy and time is valuable — you're lucky any of this made it out to the internet at all. Ninety spare minutes and a lot of help from AI made it happen.*
 
-We love dining out (but love happy hour deals even more!). After digging through a few years of receipts and fondly reminiscing about it over dinner, here's the definitive (for now) rundown of our favorite places to eat in the Boise area, organized by category, with our top picks called out in each one. We're big on supporting local where we can, so you'll see that bias show up throughout — though a few well-loved chains earned their spot too. We also lost a few good ones along the way — see the "Gone But Not Forgotten" section at the bottom for those. Can't decide where to go tonight? Try the [random picker]({{ site.baseurl }}/where-should-we-eat/) — it'll choose from this whole list for you. Consider this a living document — we'll keep updating it as we revisit old favorites and check out new places.
+We love dining out (but love happy hour deals even more!). After digging through a few years of receipts and fondly reminiscing about it over dinner, here's the definitive (for now) rundown of our favorite places to eat in the Boise area, organized by category, with our top picks called out in each one. We're big on supporting local where we can, so you'll see that bias show up throughout — though a few well-loved chains earned their spot too. We also lost a few good ones along the way — see the "Gone But Not Forgotten" section at the bottom for those. Can't decide where to go tonight? Try the [random picker]({{ site.baseurl }}/where-should-we-eat/) — it'll choose from this whole list for you. Consider this a living document — we'll keep updating it as we revisit old favorites and check out new places. Think we're missing a place you love, or think we're dead wrong about one of ours? Tell us in the [comments](#disqus_thread) at the bottom of the page.
 
 ## Breweries & Taprooms
 
@@ -2461,6 +2495,8 @@ We love dining out (but love happy hour deals even more!). After digging through
 **Stardust Restaurant & Lounge** — Great staple happy hour drink deals, though we were a bit put off by the happy hour food pricing and small portion sizes.
 
 **The James Kitchen & Bar** — Solid food choice, upscale but casual, good value for the quality of the food, cocktails, and beer selection. Great rooftop seating, too.
+
+**Eureka!** — Mid-level at best on our last visit. The food was sub-par, not what we're used to for a normal 8th Street experience, and the waiter got our order wrong — brought the same burger twice even though we'd ordered two different ones, then made an excuse that we should just keep it because the kitchen was too busy to fix it.
 
 **Fork** — Been a bit of a mixed bag lately, though that might be on us — we've been wandering off our usual (excellent) burger order to try new things, and probably need to circle back to it. Still a great beer and wine list and a great location downtown. Still owe ourselves a visit to 8 Horses Lounge, the bar hidden below it behind an old bank vault door.
 

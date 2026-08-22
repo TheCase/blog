@@ -14,7 +14,7 @@ last_updated: 'August 22, 2026'
 
 *Last updated: {{ page.last_updated }}*
 
-Downtown Boise punches well above its weight for happy hour. This is a companion to our [full eateries list]({{ site.baseurl }}/boise-eateries/), scoped specifically to downtown — real days, hours, and specials, not vague "afternoons." Hours and prices change without notice, so treat this as a strong starting point, not gospel — call ahead if you're making a special trip for a specific deal.
+Downtown Boise punches well above its weight for happy hour. This is a companion to our [full eateries list]({{ site.baseurl }}/boise-eateries/), scoped specifically to downtown — real days, hours, and specials, not vague "afternoons." Hours and prices change without notice, so treat this as a strong starting point, not gospel — call ahead if you're making a special trip for a specific deal. Know a downtown happy hour we missed, or one that's changed since we last checked? Let us know in the [comments](#disqus_thread) below.
 
 ## Our Favorites' Happy Hours
 

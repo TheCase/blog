@@ -10,7 +10,7 @@ comments: true
 
 [Eateries List]({{ site.baseurl }}/boise-eateries/) &middot; **Where Should We Eat?** &middot; [Happy Hour Guide]({{ site.baseurl }}/downtown-happy-hour/)
 
-Can't decide? Neither can we, most nights. Hit the button and let it pick from our full list of [Boise-area favorites]({{ site.baseurl }}/boise-eateries/) — if you don't like the answer, tell it "nah" and try again. If it points you downtown, check the [happy hour guide]({{ site.baseurl }}/downtown-happy-hour/) before you go.
+Can't decide? Neither can we, most nights. Hit the button and let it pick from our full list of [Boise-area favorites]({{ site.baseurl }}/boise-eateries/) — if you don't like the answer, tell it "nah" and try again. If it points you downtown, check the [happy hour guide]({{ site.baseurl }}/downtown-happy-hour/) before you go. Think a place is missing from the pool, or disagree with how we tagged one? [Comments](#disqus_thread) are open below.
 
 *The lunch/dinner/happy hour tags below are our best-guess categorization, not verified per-restaurant — treat them as a rough filter, not a guarantee.*
 
