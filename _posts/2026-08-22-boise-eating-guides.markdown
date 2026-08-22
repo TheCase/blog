@@ -7,7 +7,7 @@ excerpt: >-
   picker for when nobody can decide, and a downtown happy hour guide
   with real days, hours, and specials.
 categories:
-- Food
+- food
 ---
 
 <svg viewBox="0 0 1200 280" width="100%" height="220" preserveAspectRatio="xMidYMax slice" role="img" aria-label="Illustrated silhouette of the Boise foothills and downtown skyline at dusk" style="display:block; border-radius:6px;">
