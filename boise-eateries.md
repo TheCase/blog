@@ -194,7 +194,7 @@ last_updated: 'August 22, 2026'
             "@type": "Person",
             "name": "TheCase"
           },
-          "reviewBody": "one of the largest rotating craft beer selections in Idaho, paired with a locally-sourced pub menu; sister venue to the adjacent Red Feather Lounge."
+          "reviewBody": "Amazing local beer selection, and wonderfully locally-sourced handhelds. Highlights are the poutine (braised pork) and the hot-caramel-dipped beignets — that's powdered sugar, not cocaine, but they're addictive enough you have to wonder."
         }
       }
     },
@@ -2452,7 +2452,9 @@ We love dining out (but love happy hour deals even more!). After digging through
 
 **Lost Grove Brewing** *(Hyde Park)* — Worth calling out for pairing legitimately good food with top-notch beer, and from what we remember, a good value to boot.
 
-*Also on our list:* **10 Barrel Brewing Co.** — downtown Boise brewpub since 2006, part of the national 10 Barrel chain, known for pub fare from fried brussels sprouts to gourmet burgers and fish tacos. **Bittercreek Alehouse** — one of the largest rotating craft beer selections in Idaho, paired with a locally-sourced pub menu; sister venue to the adjacent Red Feather Lounge. **Clairvoyant Brewing** — set in a converted auto shop with a big dog-friendly patio and rotating food trucks; survived a 2025 closure scare and is back brewing its own beer in-house again. **Hops & Bottles** — casual, dog-friendly beer bar built around its bottle selection. **RAM Restaurant & Brewery** — national brewpub chain; the Boise location remains open. **Sockeye Brewing** — Boise brewery and taproom on Fairview Ave. **Voodoo Brewing Co.** — regional brewery chain with locations in both Boise and Meridian.
+**Bittercreek Alehouse** — Amazing local beer selection, and wonderfully locally-sourced handhelds. Highlights are the poutine (braised pork) and the hot-caramel-dipped beignets — that's powdered sugar, not cocaine, but they're addictive enough you have to wonder.
+
+*Also on our list:* **10 Barrel Brewing Co.** — downtown Boise brewpub since 2006, part of the national 10 Barrel chain, known for pub fare from fried brussels sprouts to gourmet burgers and fish tacos. **Clairvoyant Brewing** — set in a converted auto shop with a big dog-friendly patio and rotating food trucks; survived a 2025 closure scare and is back brewing its own beer in-house again. **Hops & Bottles** — casual, dog-friendly beer bar built around its bottle selection. **RAM Restaurant & Brewery** — national brewpub chain; the Boise location remains open. **Sockeye Brewing** — Boise brewery and taproom on Fairview Ave. **Voodoo Brewing Co.** — regional brewery chain with locations in both Boise and Meridian.
 
 ## Bars & Pubs
 
